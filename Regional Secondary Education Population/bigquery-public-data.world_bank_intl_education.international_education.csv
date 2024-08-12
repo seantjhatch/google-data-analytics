@@ -1,0 +1,501 @@
+country_name,country_code,indicator_name,indicator_code,value,year
+Chad,TCD,"Enrolment in lower secondary education, both sexes (number)",UIS.E.2,321921,2012
+Chad,TCD,"Enrolment in upper secondary education, both sexes (number)",UIS.E.3,68809,2006
+Chad,TCD,"Enrolment in upper secondary education, both sexes (number)",UIS.E.3,30551,1999
+Chad,TCD,"Enrolment in upper secondary education, both sexes (number)",UIS.E.3,79784,2007
+Chad,TCD,"Repeaters in primary education, all grades, both sexes (number)",UIS.R.1,282699,2006
+Chad,TCD,"Repeaters in primary education, all grades, both sexes (number)",UIS.R.1,169600,1991
+Chad,TCD,"Repeaters in primary education, all grades, both sexes (number)",UIS.R.1,79342,1977
+Chad,TCD,"Repeaters in primary education, all grades, both sexes (number)",UIS.R.1,251163,2001
+Chad,TCD,"Repeaters in primary education, all grades, both sexes (number)",UIS.R.1,224397,2000
+Chad,TCD,"Teachers in lower secondary education, both sexes (number)",UIS.T.2,2703,2000
+Chad,TCD,"Enrolment in early childhood education, both sexes (number)",UIS.E.0.T,10928,2013
+Chad,TCD,"Enrolment in lower secondary education, female (number)",UIS.E.2.F,101463,2011
+Chad,TCD,"Enrolment in lower secondary education, female (number)",UIS.E.2.F,92857,2009
+Chad,TCD,"Enrolment in lower secondary education, female (number)",UIS.E.2.F,49011,2005
+Chad,TCD,"Enrolment in lower secondary vocational, both sexes (number)",UIS.E.2.V,446,2004
+Chad,TCD,"Enrolment in lower secondary vocational, both sexes (number)",UIS.E.2.V,339,2001
+Chad,TCD,"Enrolment in upper secondary vocational, both sexes (number)",UIS.E.3.V,6000,2012
+Chad,TCD,"Enrolment in post-secondary non-tertiary education, female (number)",UIS.E.4.F,762,2010
+Chad,TCD,Percentage of students in early childhood education who are female (%),UIS.FEP.0,46.42681,2011
+Chad,TCD,Percentage of students in lower secondary education who are female (%),UIS.FEP.2,30.45413017,2008
+Chad,TCD,Percentage of students in lower secondary education who are female (%),UIS.FEP.2,21.62668037,1998
+Chad,TCD,Percentage of students in lower secondary education who are female (%),UIS.FEP.2,29.08567047,2007
+Chad,TCD,Percentage of students in upper secondary education who are female (%),UIS.FEP.3,17.45932961,1999
+Chad,TCD,Percentage of students in upper secondary education who are female (%),UIS.FEP.3,26.12037086,2011
+Chad,TCD,"New entrants to Grade 1 of primary education, percentage female (%)",UIS.FNP.1,41.8697319,2000
+Chad,TCD,"New entrants to Grade 1 of primary education, percentage female (%)",UIS.FNP.1,29.19841957,1976
+Chad,TCD,"New entrants to Grade 1 of primary education, percentage female (%)",UIS.FNP.1,42.61695862,2001
+Chad,TCD,"New entrants to Grade 1 of primary education, percentage female (%)",UIS.FNP.1,43.57741928,2010
+Chad,TCD,"New entrants to Grade 1 of primary education, percentage female (%)",UIS.FNP.1,42.42309952,2003
+Chad,TCD,Percentage of teachers in upper secondary education who are female (%),UIS.FTP.3,4.88117981,2000
+Chad,TCD,Percentage of teachers in upper secondary education who are female (%),UIS.FTP.3,6.078579903,1999
+Chad,TCD,Percentage of teachers in upper secondary education who are female (%),UIS.FTP.3,7.123219967,2012
+Chad,TCD,Percentage of teachers in post-secondary non-tertiary education who are female (%),UIS.FTP.4,7.117440224,2010
+Chad,TCD,"Graduates from ISCED 8 programmes in tertiary education, both sexes (number)",UIS.G.8.T,8,2000
+Chad,TCD,"UIS: Net attendance rate, primary, both sexes (%)",UIS.NAR.1,41.02798843,2004
+Chad,TCD,Percentage of enrolment in early childhood education programmes in private institutions (%),UIS.PRP.0,51.71999,2012
+Chad,TCD,Percentage of enrolment in lower secondary education in private institutions (%),UIS.PRP.2,13.61664009,1999
+Chad,TCD,"Repeaters in primary education, all grades, female (number)",UIS.R.1.F,106260,2004
+Chad,TCD,"Repeaters in primary education, all grades, female (number)",UIS.R.1.F,182312,2011
+Chad,TCD,"Repeaters in primary education, all grades, female (number)",UIS.R.1.F,113018,2003
+Chad,TCD,"Population of the official age for post-secondary non-tertiary education, both sexes (number)",UIS.SAP.4,238762,2011
+Chad,TCD,"Population of the official age for post-secondary non-tertiary education, both sexes (number)",UIS.SAP.4,229214,2010
+Chad,TCD,"Population of the official age for post-secondary non-tertiary education, both sexes (number)",UIS.SAP.4,257675,2013
+Chad,TCD,"School life expectancy, pre-primary, both sexes (years)",UIS.SLE.0,0.02417000011,2013
+Chad,TCD,"School life expectancy, pre-primary, both sexes (years)",UIS.SLE.0,0.05299999937,2011
+Chad,TCD,"School life expectancy, primary, both sexes (years)",UIS.SLE.1,2.777750015,1995
+Chad,TCD,"School life expectancy, primary, both sexes (years)",UIS.SLE.1,2.006500006,1975
+Chad,TCD,"School life expectancy, primary, both sexes (years)",UIS.SLE.1,2.009150028,1976
+Chad,TCD,"School life expectancy, primary, both sexes (years)",UIS.SLE.1,4.276899815,2006
+Chad,TCD,"School life expectancy, primary, both sexes (years)",UIS.SLE.1,2.847160101,1994
+Chad,TCD,"School life expectancy, primary, both sexes (years)",UIS.SLE.1,1.948660016,1974
+Chad,TCD,"School life expectancy, primary, both sexes (years)",UIS.SLE.1,2.080430031,1985
+Chad,TCD,"Teachers in upper secondary education, female (number)",UIS.T.3.F,570,2011
+Chad,TCD,"Teachers in tertiary education ISCED 5 programmes, both sexes (number)",UIS.T.5.B,105,2000
+Chad,TCD,"Enrolment in Grade 1 of primary education, both sexes (number)",UIS.E.1.G1,288321,2001
+Chad,TCD,"Enrolment in Grade 1 of primary education, both sexes (number)",UIS.E.1.G1,144761,1986
+Chad,TCD,"Enrolment in Grade 1 of primary education, both sexes (number)",UIS.E.1.G1,372938,2005
+Chad,TCD,"Enrolment in Grade 1 of primary education, both sexes (number)",UIS.E.1.G1,369736,2004
+Chad,TCD,"Enrolment in Grade 1 of primary education, both sexes (number)",UIS.E.1.G1,285429,1998
+Chad,TCD,"Enrolment in Grade 1 of primary education, both sexes (number)",UIS.E.1.G1,139512,1987
+Chad,TCD,"Enrolment in Grade 2 of primary education, both sexes (number)",UIS.E.1.G2,254814,2004
+Chad,TCD,"Enrolment in Grade 2 of primary education, both sexes (number)",UIS.E.1.G2,112163,1995
+Chad,TCD,"Enrolment in Grade 2 of primary education, both sexes (number)",UIS.E.1.G2,90775,1989
+Chad,TCD,"Enrolment in Grade 3 of primary education, both sexes (number)",UIS.E.1.G3,27791,1974
+Chad,TCD,"Enrolment in Grade 3 of primary education, both sexes (number)",UIS.E.1.G3,298330,2010
+Chad,TCD,"Enrolment in Grade 3 of primary education, both sexes (number)",UIS.E.1.G3,96648,1996
+Chad,TCD,"Enrolment in Grade 3 of primary education, both sexes (number)",UIS.E.1.G3,149371,1999
+Chad,TCD,"Enrolment in Grade 4 of primary education, both sexes (number)",UIS.E.1.G4,162082,2003
+Chad,TCD,"Enrolment in Grade 4 of primary education, both sexes (number)",UIS.E.1.G4,70093,1994
+Chad,TCD,"Enrolment in Grade 4 of primary education, both sexes (number)",UIS.E.1.G4,18907,1972
+Chad,TCD,"Enrolment in Grade 5 of primary education, both sexes (number)",UIS.E.1.G5,80280,2000
+Chad,TCD,"Enrolment in Grade 5 of primary education, both sexes (number)",UIS.E.1.G5,46162,1990
+Chad,TCD,"Enrolment in Grade 5 of primary education, both sexes (number)",UIS.E.1.G5,132874,2004
+Chad,TCD,"Enrolment in Grade 5 of primary education, both sexes (number)",UIS.E.1.G5,49134,1995
+Chad,TCD,"Enrolment in Grade 6 of primary education, both sexes (number)",UIS.E.1.G6,123524,2009
+Chad,TCD,"Enrolment in Grade 6 of primary education, both sexes (number)",UIS.E.1.G6,20952,1972
+Chad,TCD,"Enrolment in Grade 6 of primary education, both sexes (number)",UIS.E.1.G6,39237,1990
+Chad,TCD,"Enrolment in Grade 6 of primary education, both sexes (number)",UIS.E.1.G6,57113,1999
+Chad,TCD,"Enrolment in Grade 6 of primary education, both sexes (number)",UIS.E.1.G6,20258,1987
+Chad,TCD,"Enrolment in Grade 6 of primary education, both sexes (number)",UIS.E.1.G6,104943,2006
+Chad,TCD,"Enrolment in Grade 6 of primary education, both sexes (number)",UIS.E.1.G6,49933,1998
+Chad,TCD,"Enrolment in Grade 6 of primary education, both sexes (number)",UIS.E.1.G6,142244,2011
+Chad,TCD,"Enrolment in primary education, private institutions, both sexes (number)",UIS.E.1.PR,18634,1986
+Chad,TCD,"Enrolment in primary education, private institutions, both sexes (number)",UIS.E.1.PR,143238,2009
+Chad,TCD,"Enrolment in primary education, private institutions, both sexes (number)",UIS.E.1.PR,15290,1985
+Chad,TCD,"Enrolment in primary education, private institutions, both sexes (number)",UIS.E.1.PR,14283,1972
+Chad,TCD,"Enrolment in primary education, public institutions, both sexes (number)",UIS.E.1.PU,1415510,2008
+Chad,TCD,"Enrolment in primary education, public institutions, both sexes (number)",UIS.E.1.PU,2088118,2013
+Chad,TCD,"Enrolment in lower secondary education, private institutions, both sexes (number)",UIS.E.2.PR,24033,2002
+Chad,TCD,"Enrolment in lower secondary education, private institutions, both sexes (number)",UIS.E.2.PR,49770,2012
+Chad,TCD,"Enrolment in lower secondary education, public institutions, both sexes (number)",UIS.E.2.PU,263710,2010
+Chad,TCD,"Enrolment in lower secondary education, public institutions, both sexes (number)",UIS.E.2.PU,272151,2012
+Chad,TCD,"Enrolment in post-secondary non-tertiary education, private institutions, both sexes (number)",UIS.E.4.PR,87,2011
+Chad,TCD,"Gross enrolment ratio, primary and lower secondary, both sexes (%)",UIS.GER.12,67.08499908,2011
+Chad,TCD,"Gross enrolment ratio, primary and lower secondary, both sexes (%)",UIS.GER.12,55.52127838,2004
+Chad,TCD,"Gross enrolment ratio, primary and lower secondary, both sexes (%)",UIS.GER.12,51.17647171,2002
+Chad,TCD,"Gross enrolment ratio, primary and lower secondary, both sexes (%)",UIS.GER.12,69.71733093,2012
+Chad,TCD,"Adjusted net enrolment rate, lower secondary, both sexes (%)",UIS.NERA.2,9.089690208,2003
+Chad,TCD,"Adjusted net enrolment rate, lower secondary, both sexes (%)",UIS.NERA.2,6.167089939,2000
+Chad,TCD,"Total net enrolment rate, primary, both sexes (%)",UIS.NERT.1,63.13167953,2011
+Chad,TCD,"Total net enrolment rate, primary, both sexes (%)",UIS.NERT.1,47.98611069,1998
+Chad,TCD,"Total net enrolment rate, primary, both sexes (%)",UIS.NERT.1,52.79663086,2001
+Chad,TCD,"Total net enrolment rate, primary, both sexes (%)",UIS.NERT.1,42.8064003,1997
+Chad,TCD,"Total net enrolment rate, lower secondary, both sexes (%)",UIS.NERT.2,31.89027023,2002
+Chad,TCD,"Adjusted net intake rate to Grade 1 of primary education, both sexes (%)",UIS.NIRA.1,38.02764893,2003
+Chad,TCD,"Adjusted net intake rate to Grade 1 of primary education, both sexes (%)",UIS.NIRA.1,24.35379982,1996
+Chad,TCD,"Percentage of students enrolled in primary education who are over-age, both sexes (%)",UIS.OAEP.1,20.99703979,1996
+Chad,TCD,"Percentage of students enrolled in primary education who are over-age, both sexes (%)",UIS.OAEP.1,17.85424995,2000
+Chad,TCD,"Out-of-school adolescents of lower secondary school age, both sexes (number)",UIS.OFST.2,580637,2003
+Chad,TCD,"Repeaters in Grade 1 of primary education, both sexes (number)",UIS.R.1.G1,81219,2000
+Chad,TCD,"Repeaters in Grade 1 of primary education, both sexes (number)",UIS.R.1.G1,20637,1971
+Chad,TCD,"Repeaters in Grade 2 of primary education, both sexes (number)",UIS.R.1.G2,52190,2000
+Chad,TCD,"Repeaters in Grade 2 of primary education, both sexes (number)",UIS.R.1.G2,55814,2006
+Chad,TCD,"Repeaters in Grade 2 of primary education, both sexes (number)",UIS.R.1.G2,52810,2004
+Chad,TCD,"Repeaters in Grade 3 of primary education, both sexes (number)",UIS.R.1.G3,96817,2013
+Chad,TCD,"Repeaters in Grade 3 of primary education, both sexes (number)",UIS.R.1.G3,50765,2005
+Chad,TCD,"Repeaters in Grade 4 of primary education, both sexes (number)",UIS.R.1.G4,34619,2002
+Chad,TCD,"Repeaters in Grade 4 of primary education, both sexes (number)",UIS.R.1.G4,12117,1989
+Chad,TCD,"Repeaters in Grade 4 of primary education, both sexes (number)",UIS.R.1.G4,35352,2004
+Chad,TCD,"Repeaters in Grade 5 of primary education, both sexes (number)",UIS.R.1.G5,12105,2000
+Chad,TCD,"Repeaters in Grade 5 of primary education, both sexes (number)",UIS.R.1.G5,11817,1990
+Chad,TCD,"Repeaters in Grade 5 of primary education, both sexes (number)",UIS.R.1.G5,14668,1995
+Chad,TCD,"Repeaters in Grade 5 of primary education, both sexes (number)",UIS.R.1.G5,60815,1998
+Chad,TCD,"Repeaters in Grade 5 of primary education, both sexes (number)",UIS.R.1.G5,28954,2006
+Chad,TCD,"Repeaters in Grade 5 of primary education, both sexes (number)",UIS.R.1.G5,5641,1977
+Chad,TCD,"Repeaters in Grade 5 of primary education, both sexes (number)",UIS.R.1.G5,4333,1974
+Chad,TCD,"Repeaters in Grade 5 of primary education, both sexes (number)",UIS.R.1.G5,55427,2013
+Chad,TCD,"Repeaters in Grade 6 of primary education, both sexes (number)",UIS.R.1.G6,28182,2009
+Chad,TCD,"Repeaters in Grade 6 of primary education, both sexes (number)",UIS.R.1.G6,36009,2012
+Chad,TCD,"Repeaters in Grade 6 of primary education, both sexes (number)",UIS.R.1.G6,20129,1995
+Chad,TCD,"Repeaters in Grade 6 of primary education, both sexes (number)",UIS.R.1.G6,23630,2006
+Chad,TCD,"Repetition rate in primary education (all grades), both sexes (%)",UIS.REPR.1,23.10261,2009
+Chad,TCD,"Repetition rate in primary education (all grades), both sexes (%)",UIS.REPR.1,24.93759,2008
+Chad,TCD,"Repetition rate in primary education (all grades), both sexes (%)",UIS.REPR.1,27.05484,1971
+Chad,TCD,"Repetition rate in primary education (all grades), both sexes (%)",UIS.REPR.1,27.1029,2012
+Chad,TCD,"Repetition rate in primary education (all grades), both sexes (%)",UIS.REPR.1,27.49317,2000
+Chad,TCD,"Repetition rate in primary education (all grades), both sexes (%)",UIS.REPR.1,34.51002,1995
+Chad,TCD,"Population of compulsory school age, both sexes (number)",UIS.SAP.CE,2810097,2006
+Chad,TCD,"School life expectancy, primary and lower secondary, both sexes (years)",UIS.SLE.12,4.542719841,2000
+Chad,TCD,"School life expectancy, primary and lower secondary, both sexes (years)",UIS.SLE.12,5.013949871,2002
+Chad,TCD,"School life expectancy, secondary, both sexes (years)",UIS.SLE.23,1.035459995,2003
+Chad,TCD,"School life expectancy, secondary, both sexes (years)",UIS.SLE.23,1.568199992,2012
+Chad,TCD,"School life expectancy, secondary, both sexes (years)",UIS.SLE.23,0.1699299961,1975
+Chad,TCD,"School life expectancy, secondary, both sexes (years)",UIS.SLE.23,1.126360059,2006
+Chad,TCD,"School life expectancy, tertiary, both sexes (years)",UIS.SLE.56,0.03002000041,1997
+Chad,TCD,"School life expectancy, tertiary, both sexes (years)",UIS.SLE.56,0.1050700024,2010
+Chad,TCD,"School life expectancy, tertiary, both sexes (years)",UIS.SLE.56,0.0461499989,2003
+Chad,TCD,"School life expectancy, tertiary, both sexes (years)",UIS.SLE.56,0.008729999885,1974
+Chad,TCD,"School life expectancy, tertiary, both sexes (years)",UIS.SLE.56,0.0007300000289,1972
+Chad,TCD,"Teachers in secondary vocational education, both sexes (number)",UIS.T.23.V,254,2005
+Chad,TCD,"Teachers in secondary vocational education, both sexes (number)",UIS.T.23.V,265,2004
+Chad,TCD,"Teachers in secondary vocational education, both sexes (number)",UIS.T.23.V,242,2006
+Chad,TCD,"Percentage of teachers in pre-primary education who are trained, both sexes (%)",UIS.TRTP.0,72.90715027,2011
+Chad,TCD,"Percentage of students enrolled in primary education who are under-age, both sexes (%)",UIS.UAEP.1,0.6115099788,2013
+Chad,TCD,"Under-age enrolment ratio in primary education, both sexes (%)",UIS.UAPP.1,0.8488900065,1999
+Chad,TCD,"Under-age enrolment ratio in primary education, both sexes (%)",UIS.UAPP.1,1.259520054,2003
+Chad,TCD,MICS: Primary completion rate,HH.MICS.PCR,49.68769298,2011
+Chad,TCD,Duration of compulsory education (years),SE.COM.DURS,6,1999
+Chad,TCD,Duration of compulsory education (years),SE.COM.DURS,6,2001
+Chad,TCD,Duration of compulsory education (years),SE.COM.DURS,6,2003
+Chad,TCD,"Enrolment in pre-primary education, both sexes (number)",SE.PRE.ENRL,10928,2013
+Chad,TCD,"Net enrolment rate, pre-primary, both sexes (%)",SE.PRE.NENR,1.561789989,2010
+Chad,TCD,Official entrance age to primary education (years),SE.PRM.AGES,6,2000
+Chad,TCD,Official entrance age to primary education (years),SE.PRM.AGES,6,2016
+Chad,TCD,Official entrance age to primary education (years),SE.PRM.AGES,6,2003
+Chad,TCD,Official entrance age to primary education (years),SE.PRM.AGES,6,1975
+Chad,TCD,Official entrance age to primary education (years),SE.PRM.AGES,6,1991
+Chad,TCD,Official entrance age to primary education (years),SE.PRM.AGES,6,1992
+Chad,TCD,Official entrance age to primary education (years),SE.PRM.AGES,6,2008
+Chad,TCD,Theoretical duration of primary education (years),SE.PRM.DURS,6,2008
+Chad,TCD,Theoretical duration of primary education (years),SE.PRM.DURS,6,1986
+Chad,TCD,Theoretical duration of primary education (years),SE.PRM.DURS,6,1971
+Chad,TCD,Theoretical duration of primary education (years),SE.PRM.DURS,6,2010
+Chad,TCD,Theoretical duration of primary education (years),SE.PRM.DURS,6,1998
+Chad,TCD,Theoretical duration of primary education (years),SE.PRM.DURS,6,1989
+Chad,TCD,Theoretical duration of primary education (years),SE.PRM.DURS,6,2014
+Chad,TCD,Theoretical duration of primary education (years),SE.PRM.DURS,6,1979
+Chad,TCD,Theoretical duration of primary education (years),SE.PRM.DURS,6,1982
+Chad,TCD,"Enrolment in primary education, both sexes (number)",SE.PRM.ENRL,680909,1997
+Chad,TCD,"Enrolment in primary education, both sexes (number)",SE.PRM.ENRL,220882,1977
+Chad,TCD,"Enrolment in primary education, both sexes (number)",SE.PRM.ENRL,1296486,2006
+Chad,TCD,"Enrolment in primary education, both sexes (number)",SE.PRM.ENRL,492231,1990
+Chad,TCD,"Enrolment in primary education, both sexes (number)",SE.PRM.ENRL,542405,1994
+Chad,TCD,"Enrolment in primary education, both sexes (number)",SE.PRM.ENRL,1324298,2007
+Chad,TCD,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,47.45267868,1994
+Chad,TCD,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,59.57688141,1998
+Chad,TCD,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,71.90290833,2005
+Chad,TCD,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,82.60771942,2010
+Chad,TCD,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,61.12397003,1999
+Chad,TCD,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,71.94307709,2003
+Chad,TCD,"Gross enrolment ratio, primary, both sexes (%)",SE.PRM.ENRR,45.5146904,1988
+Chad,TCD,"Net enrolment rate, primary, both sexes (%)",SE.PRM.NENR,57.62916183,2003
+Chad,TCD,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,15971,2002
+Chad,TCD,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,12373,1999
+Chad,TCD,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,10151,1997
+Chad,TCD,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,13313,2000
+Chad,TCD,"Teachers in primary education, both sexes (number)",SE.PRM.TCHR,4494,1985
+Chad,TCD,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,49.8944397,1999
+Chad,TCD,"Out-of-school children of primary school age, both sexes (number)",SE.PRM.UNER,612775,1988
+Chad,TCD,"Out-of-school children of primary school age, both sexes (number)",SE.PRM.UNER,700421,2001
+Chad,TCD,"School life expectancy, primary to tertiary, both sexes (years)",SE.SCH.LIFE,6.666950226,2009
+Chad,TCD,"School life expectancy, primary to tertiary, both sexes (years)",SE.SCH.LIFE,5.426169872,2002
+Chad,TCD,"School life expectancy, primary to tertiary, both sexes (years)",SE.SCH.LIFE,5.144499779,2001
+Chad,TCD,"School life expectancy, primary to tertiary, both sexes (years)",SE.SCH.LIFE,4.491179943,1998
+Chad,TCD,"School life expectancy, primary to tertiary, both sexes (years)",SE.SCH.LIFE,2.076060057,1971
+Chad,TCD,"School life expectancy, primary to tertiary, both sexes (years)",SE.SCH.LIFE,5.482289791,2005
+Chad,TCD,"School life expectancy, primary to tertiary, both sexes (years)",SE.SCH.LIFE,2.537039995,1985
+Chad,TCD,"School life expectancy, primary to tertiary, both sexes (years)",SE.SCH.LIFE,2.178960085,1975
+Chad,TCD,Official entrance age to lower secondary education (years),SE.SEC.AGES,12,2001
+Chad,TCD,Official entrance age to lower secondary education (years),SE.SEC.AGES,12,1986
+Chad,TCD,Official entrance age to lower secondary education (years),SE.SEC.AGES,12,2000
+Chad,TCD,Official entrance age to lower secondary education (years),SE.SEC.AGES,12,2006
+Chad,TCD,Official entrance age to lower secondary education (years),SE.SEC.AGES,12,2005
+Chad,TCD,Official entrance age to lower secondary education (years),SE.SEC.AGES,12,1981
+Chad,TCD,Official entrance age to lower secondary education (years),SE.SEC.AGES,12,1974
+Chad,TCD,Official entrance age to lower secondary education (years),SE.SEC.AGES,12,1980
+Chad,TCD,Theoretical duration of secondary education (years),SE.SEC.DURS,7,2006
+Chad,TCD,Theoretical duration of secondary education (years),SE.SEC.DURS,7,1995
+Chad,TCD,Theoretical duration of secondary education (years),SE.SEC.DURS,7,2002
+Chad,TCD,Theoretical duration of secondary education (years),SE.SEC.DURS,7,2005
+Chad,TCD,Theoretical duration of secondary education (years),SE.SEC.DURS,7,2001
+Chad,TCD,Theoretical duration of secondary education (years),SE.SEC.DURS,7,2008
+Chad,TCD,Theoretical duration of secondary education (years),SE.SEC.DURS,7,2016
+Chad,TCD,Theoretical duration of secondary education (years),SE.SEC.DURS,7,1990
+Chad,TCD,"Enrolment in secondary education, both sexes (number)",SE.SEC.ENRL,421686,2009
+Chad,TCD,"Enrolment in secondary education, both sexes (number)",SE.SEC.ENRL,11625,1972
+Chad,TCD,"Enrolment in secondary education, both sexes (number)",SE.SEC.ENRL,93026,1996
+Chad,TCD,"Enrolment in secondary education, both sexes (number)",SE.SEC.ENRL,123408,1999
+Chad,TCD,"Enrolment in secondary education, both sexes (number)",SE.SEC.ENRL,44379,1987
+Chad,TCD,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,13.40915012,2002
+Chad,TCD,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,8.768500328,1997
+Chad,TCD,"Gross enrolment ratio, secondary, both sexes (%)",SE.SEC.ENRR,8.464300156,1996
+Chad,TCD,"Net enrolment rate, secondary, both sexes (%)",SE.SEC.NENR,10.53547955,2003
+Chad,TCD,"Net enrolment rate, secondary, both sexes (%)",SE.SEC.NENR,6.998770237,1999
+Chad,TCD,"Teachers in secondary education, both sexes (number)",SE.SEC.TCHR,2310,1995
+Chad,TCD,"Teachers in secondary education, both sexes (number)",SE.SEC.TCHR,9555,2007
+Chad,TCD,"Teachers in secondary education, both sexes (number)",SE.SEC.TCHR,2081,1994
+Chad,TCD,"Teachers in secondary education, both sexes (number)",SE.SEC.TCHR,13253,2010
+Chad,TCD,"Enrolment in tertiary education, all programmes, both sexes (number)",SE.TER.ENRL,419,1975
+Chad,TCD,"Enrolment in tertiary education, all programmes, both sexes (number)",SE.TER.ENRL,5901,2000
+Chad,TCD,"Enrolment in tertiary education, all programmes, both sexes (number)",SE.TER.ENRL,243,1973
+Chad,TCD,"Gross enrolment ratio, tertiary, both sexes (%)",SE.TER.ENRR,0.2022099942,1977
+Chad,TCD,"Graduates from tertiary education, both sexes (number)",SE.TER.GRAD,715,2000
+Chad,TCD,"Teachers in tertiary education programmes, both sexes (number)",SE.TER.TCHR,62,1977
+Chad,TCD,"Teachers in tertiary education programmes, both sexes (number)",SE.TER.TCHR,94,1975
+Chad,TCD,"Gross enrolment ratio, primary to tertiary, both sexes (%)",SE.TOT.ENRR,43.28350067,2010
+Chad,TCD,"Gross enrolment ratio, primary to tertiary, both sexes (%)",SE.TOT.ENRR,13.71240997,1974
+Chad,TCD,"Gross enrolment ratio, primary to tertiary, both sexes (%)",SE.TOT.ENRR,32.56814957,2001
+Chad,TCD,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,185.1,2000
+Chad,TCD,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,127.3,2016
+Chad,TCD,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,200.8,1994
+Chad,TCD,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,241.5,1977
+Chad,TCD,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,141.8,2012
+Chad,TCD,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,229.9,1983
+Chad,TCD,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,198.6,1995
+Chad,TCD,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,242.8,1976
+Chad,TCD,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,172.2,2004
+Chad,TCD,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,188.3,1999
+Chad,TCD,Population growth (annual %),SP.POP.GROW,3.830641126,2003
+Chad,TCD,Population growth (annual %),SP.POP.GROW,3.744207307,2004
+Chad,TCD,Population growth (annual %),SP.POP.GROW,3.114092441,2016
+Chad,TCD,Population growth (annual %),SP.POP.GROW,1.901325712,1978
+Chad,TCD,Population growth (annual %),SP.POP.GROW,3.192192373,1991
+Chad,TCD,Population growth (annual %),SP.POP.GROW,2.554574402,1984
+Chad,TCD,"Population, total",SP.POP.TOTL,3815103,1972
+Chad,TCD,"Population, total",SP.POP.TOTL,5243006,1986
+Chad,TCD,"Population, total",SP.POP.TOTL,7493251,1997
+Chad,TCD,"Population, total",SP.POP.TOTL,8663012,2001
+Chad,TCD,"Population, total",SP.POP.TOTL,6349089,1992
+Chad,TCD,"Population, total",SP.POP.TOTL,4512042,1980
+Chad,TCD,"Population, total",SP.POP.TOTL,6772133,1994
+Chad,TCD,"Population, total",SP.POP.TOTL,9710043,2004
+Chad,TCD,Official entrance age to compulsory education (years),UIS.CEAGE.1,6,2008
+Chad,TCD,"Drop-out rate from Grade 1 of primary education, both sexes (%)",UIS.DR.1.G1,16.43736076,1998
+Chad,TCD,"Drop-out rate from Grade 1 of primary education, both sexes (%)",UIS.DR.1.G1,14.84165001,1989
+Chad,TCD,"Drop-out rate from Grade 1 of primary education, both sexes (%)",UIS.DR.1.G1,17.64891052,1990
+Chad,TCD,"Drop-out rate from Grade 1 of primary education, both sexes (%)",UIS.DR.1.G1,20.03429031,2004
+Chad,TCD,"Drop-out rate from Grade 1 of primary education, both sexes (%)",UIS.DR.1.G1,15.67838001,2010
+Chad,TCD,"Drop-out rate from Grade 2 of primary education, both sexes (%)",UIS.DR.1.G2,5.139820099,1971
+Chad,TCD,"Drop-out rate from Grade 2 of primary education, both sexes (%)",UIS.DR.1.G2,14.14272976,1994
+Chad,TCD,"Drop-out rate from Grade 2 of primary education, both sexes (%)",UIS.DR.1.G2,9.803589821,1991
+Chad,TCD,"Drop-out rate from Grade 2 of primary education, both sexes (%)",UIS.DR.1.G2,11.79660988,2011
+Chad,TCD,"Drop-out rate from Grade 2 of primary education, both sexes (%)",UIS.DR.1.G2,11.55620003,1976
+Chad,TCD,"Drop-out rate from Grade 2 of primary education, both sexes (%)",UIS.DR.1.G2,10.64264011,2012
+Chad,TCD,"Drop-out rate from Grade 3 of primary education, both sexes (%)",UIS.DR.1.G3,18.35038948,1990
+Chad,TCD,"Drop-out rate from Grade 3 of primary education, both sexes (%)",UIS.DR.1.G3,20.04965973,1974
+Chad,TCD,"Drop-out rate from Grade 3 of primary education, both sexes (%)",UIS.DR.1.G3,11.23653984,1998
+Chad,TCD,"Drop-out rate from Grade 3 of primary education, both sexes (%)",UIS.DR.1.G3,22.44440079,2004
+Chad,TCD,"Drop-out rate from Grade 4 of primary education, both sexes (%)",UIS.DR.1.G4,17.73534012,1991
+Chad,TCD,"Drop-out rate from Grade 4 of primary education, both sexes (%)",UIS.DR.1.G4,17.51996994,1996
+Chad,TCD,"Drop-out rate from Grade 5 of primary education, both sexes (%)",UIS.DR.1.G5,11.46113968,2000
+Chad,TCD,"Enrolment in pre-primary education, private institutions, both sexes (number)",UIS.E.02.PR,9663,2010
+Chad,TCD,"Enrolment in lower secondary general, both sexes (number)",UIS.E.2.GPV,120795,2001
+Chad,TCD,"Enrolment in lower secondary general, both sexes (number)",UIS.E.2.GPV,315754,2011
+Chad,TCD,"Enrolment in lower secondary vocational, female (number)",UIS.E.2.V.F,54,2008
+Chad,TCD,"Enrolment in lower secondary vocational, female (number)",UIS.E.2.V.F,20,2001
+Chad,TCD,"Enrolment in lower secondary vocational, female (number)",UIS.E.2.V.F,55,2010
+Chad,TCD,"Enrolment in lower secondary vocational, female (number)",UIS.E.2.V.F,52,2009
+Chad,TCD,"Enrolment in upper secondary general, both sexes (number)",UIS.E.3.GPV,28136,1999
+Chad,TCD,"Enrolment in upper secondary general, both sexes (number)",UIS.E.3.GPV,65636,2006
+Chad,TCD,"Enrolment in upper secondary general, both sexes (number)",UIS.E.3.GPV,41702,2001
+Chad,TCD,"Enrolment in upper secondary general, both sexes (number)",UIS.E.3.GPV,50792,2003
+Chad,TCD,"Enrolment in upper secondary vocational, female (number)",UIS.E.3.V.F,1030,2000
+Chad,TCD,"Early school leavers from primary education, female (number)",UIS.ESL.1.F,26884,1989
+Chad,TCD,"Early school leavers from primary education, female (number)",UIS.ESL.1.F,43952,1996
+Chad,TCD,"Early school leavers from primary education, female (number)",UIS.ESL.1.F,46865.72656,2000
+Chad,TCD,"Early school leavers from primary education, male (number)",UIS.ESL.1.M,41632,1989
+Chad,TCD,"Early school leavers from primary education, male (number)",UIS.ESL.1.M,138216.7969,2013
+Chad,TCD,"Early school leavers from primary education, both sexes (number)",UIS.ESL.1.T,100720.3672,2000
+Chad,TCD,"Early school leavers from primary education, both sexes (number)",UIS.ESL.1.T,305157.1875,2010
+Chad,TCD,"Early school leavers from primary education, both sexes (number)",UIS.ESL.1.T,122902.0859,2003
+Chad,TCD,"Early school leavers from primary education, both sexes (number)",UIS.ESL.1.T,74945,1990
+Chad,TCD,"Early school leavers from primary education, both sexes (number)",UIS.ESL.1.T,110588.2109,2002
+Chad,TCD,Percentage of students in upper secondary vocational education who are female (%),UIS.FEP.3.V,44.47135162,2013
+Chad,TCD,Percentage of students in upper secondary vocational education who are female (%),UIS.FEP.3.V,48.15248871,2007
+Chad,TCD,Percentage of students in post-secondary non-tertiary vocational education who are female (%),UIS.FEP.4.V,21.45874023,2010
+Chad,TCD,Percentage of graduates from tertiary ISCED 5 programmes who are female (%),UIS.FGP.5.B,19.38776016,2000
+Chad,TCD,"Gross enrolment ratio, primary and secondary, both sexes (%)",UIS.GER.123,37.06064987,1999
+Chad,TCD,"Gross enrolment ratio, primary and secondary, both sexes (%)",UIS.GER.123,40.92470932,2001
+Chad,TCD,"Gross enrolment ratio, primary and secondary, both sexes (%)",UIS.GER.123,51.09268951,2008
+Chad,TCD,"Gross enrolment ratio, primary and secondary, both sexes (%)",UIS.GER.123,28.26658058,1995
+Chad,TCD,"Gross graduation ratio from lower secondary education, male (%)",UIS.GGR.2.M,32.46194839,2013
+Chad,TCD,"Gross outbound enrolment ratio, all regions, both sexes (%)",UIS.GOER.56,0.333310008,2003
+Chad,TCD,"Gross outbound enrolment ratio, all regions, both sexes (%)",UIS.GOER.56,0.3418500125,2008
+Chad,TCD,"Gross outbound enrolment ratio, all regions, both sexes (%)",UIS.GOER.56,0.3199700117,2006
+Chad,TCD,"Gross outbound enrolment ratio, all regions, both sexes (%)",UIS.GOER.56,0.3591699898,2011
+Chad,TCD,"Gross outbound enrolment ratio, all regions, both sexes (%)",UIS.GOER.56,0.347420007,1999
+Chad,TCD,"Elderly illiterate population, 65+ years, both sexes (number)",UIS.LP.AG65,320647,2015
+Chad,TCD,"Elderly literacy rate, population 65+ years, both sexes (%)",UIS.LR.AG65,8.31409,2015
+Chad,TCD,"Total inbound internationally mobile students, both sexes (number)",UIS.MS.56.T,978,2011
+Chad,TCD,"New entrants to Grade 1 of primary education, both sexes (number)",UIS.NE.1.G1,468313,2011
+Chad,TCD,"New entrants to Grade 1 of primary education, both sexes (number)",UIS.NE.1.G1,504870,2012
+Chad,TCD,"New entrants to Grade 1 of primary education, both sexes (number)",UIS.NE.1.G1,44097,1974
+Chad,TCD,"New entrants to Grade 1 of primary education, both sexes (number)",UIS.NE.1.G1,50184,1971
+Chad,TCD,"New entrants to Grade 1 of primary education, both sexes (number)",UIS.NE.1.G1,246354,2003
+Chad,TCD,Pupil-teacher ratio in lower secondary education (headcount basis),UIS.PTRHC.2,40.90616989,1999
+Chad,TCD,Pupil-teacher ratio in upper secondary education (headcount basis),UIS.PTRHC.3,20.35597992,2010
+Chad,TCD,Pupil-teacher ratio in upper secondary education (headcount basis),UIS.PTRHC.3,22.64715004,1999
+Chad,TCD,Pupil-teacher ratio in upper secondary education (headcount basis),UIS.PTRHC.3,25.47591972,2000
+Chad,TCD,"Repeaters in lower secondary general education, all grades, both sexes (number)",UIS.R.2.GPV,10166,1989
+Chad,TCD,"Repeaters in lower secondary general education, all grades, both sexes (number)",UIS.R.2.GPV,969,1971
+Chad,TCD,"Repeaters in lower secondary general education, all grades, both sexes (number)",UIS.R.2.GPV,35321,2006
+Chad,TCD,"Rate of out-of-school children of primary school age, both sexes (%)",UIS.ROFST.1,75.26869965,1977
+Chad,TCD,"Rate of out-of-school children of primary school age, both sexes (%)",UIS.ROFST.1,62.57962036,1996
+Chad,TCD,"Rate of out-of-school adolescents of lower secondary school age, both sexes (%)",UIS.ROFST.2,69.69441223,2001
+Chad,TCD,"Rate of out-of-school adolescents of lower secondary school age, both sexes (%)",UIS.ROFST.2,66.66004944,2003
+Chad,TCD,"Rate of out-of-school adolescents of lower secondary school age, both sexes (%)",UIS.ROFST.2,75.28890228,1998
+Chad,TCD,"Population of the official age for post-secondary non-tertiary education, female (number)",UIS.SAP.4.F,118746,2011
+Chad,TCD,"Population of the official age for post-secondary non-tertiary education, male (number)",UIS.SAP.4.M,129433,2013
+Chad,TCD,"School life expectancy, pre-primary, female (years)",UIS.SLE.0.F,0.02284999937,2013
+Chad,TCD,"School life expectancy, primary, female (years)",UIS.SLE.1.F,3.482480049,2005
+Chad,TCD,"School life expectancy, primary, female (years)",UIS.SLE.1.F,1.825279951,1990
+Chad,TCD,"School life expectancy, primary, female (years)",UIS.SLE.1.F,2.99657011,2000
+Chad,TCD,"School life expectancy, primary, female (years)",UIS.SLE.1.F,2.606100082,1998
+Chad,TCD,"School life expectancy, primary, female (years)",UIS.SLE.1.F,3.410330057,2002
+Chad,TCD,"School life expectancy, primary, female (years)",UIS.SLE.1.F,1.817360044,1995
+Chad,TCD,"School life expectancy, primary, female (years)",UIS.SLE.1.F,2.279550076,1997
+Chad,TCD,"School life expectancy, primary, male (years)",UIS.SLE.1.M,2.8759799,1972
+Chad,TCD,"School life expectancy, primary, male (years)",UIS.SLE.1.M,4.958099842,2000
+Chad,TCD,"School life expectancy, primary, male (years)",UIS.SLE.1.M,5.490590096,2008
+Chad,TCD,"School life expectancy, primary, male (years)",UIS.SLE.1.M,4.812960148,1999
+Chad,TCD,"School life expectancy, primary, male (years)",UIS.SLE.1.M,3.380019903,1986
+Chad,TCD,"School life expectancy, primary, male (years)",UIS.SLE.1.M,5.706009865,2010
+Chad,TCD,"School life expectancy, primary and secondary, both sexes (years)",UIS.SLE.123,2.176429987,1975
+Chad,TCD,"School life expectancy, primary and secondary, both sexes (years)",UIS.SLE.123,4.454629898,1998
+Chad,TCD,"School life expectancy, primary and secondary, both sexes (years)",UIS.SLE.123,2.076060057,1971
+Chad,TCD,"School life expectancy, primary and secondary, both sexes (years)",UIS.SLE.123,4.583340168,1999
+Chad,TCD,"School life expectancy, primary and secondary, both sexes (years)",UIS.SLE.123,2.51748991,1985
+Chad,TCD,"School life expectancy, primary and secondary, both sexes (years)",UIS.SLE.123,7.208079815,2012
+Chad,TCD,"School life expectancy, post-secondary non-tertiary, female (years)",UIS.SLE.4.F,0.006909999996,2011
+Chad,TCD,"Survival rate to Grade 4 of primary education, both sexes (%)",UIS.SR.1.G4,34.49768066,1996
+Chad,TCD,"Survival rate to Grade 4 of primary education, both sexes (%)",UIS.SR.1.G4,29.37988091,1971
+Chad,TCD,"Survival rate to Grade 4 of primary education, both sexes (%)",UIS.SR.1.G4,45.29346848,1990
+Chad,TCD,Official entrance age to pre-primary education (years),UIS.THAGE.0,3,1981
+Chad,TCD,Official entrance age to pre-primary education (years),UIS.THAGE.0,3,1990
+Chad,TCD,Official entrance age to pre-primary education (years),UIS.THAGE.0,3,2010
+Chad,TCD,Theoretical duration of pre-primary education (years),UIS.THDUR.0,3,1985
+Chad,TCD,Theoretical duration of pre-primary education (years),UIS.THDUR.0,3,1994
+Chad,TCD,Theoretical duration of pre-primary education (years),UIS.THDUR.0,3,2002
+Chad,TCD,Theoretical duration of pre-primary education (years),UIS.THDUR.0,3,2008
+Chad,TCD,Theoretical duration of pre-primary education (years),UIS.THDUR.0,3,1983
+Chad,TCD,Theoretical duration of pre-primary education (years),UIS.THDUR.0,3,2016
+Chad,TCD,"Under-age enrolment ratio in secondary education, both sexes (%)",UIS.UAPP.23,0.1970800012,2002
+Chad,TCD,"Under-age enrolment ratio in secondary education, both sexes (%)",UIS.UAPP.23,0.05772000179,1998
+Chad,TCD,"Under-age enrolment ratio in secondary education, both sexes (%)",UIS.UAPP.23,0.04301000014,1999
+Chad,TCD,Expenditure on lower secondary as % of government expenditure on education (%),UIS.XPUBP.2,9.268289566,2013
+Chad,TCD,Expenditure on upper secondary as % of government expenditure on education (%),UIS.XPUBP.3,15.44412994,2013
+Chad,TCD,DHS: Net intake rate for the first grade of primary education,HH.DHS.NIR.1,14.27632834,2004
+Chad,TCD,DHS: Proportion of out-of-school. Primary,HH.DHS.OOS.1,68.26342703,1996
+Chad,TCD,"Enrolment in early childhood education, private institutions, both sexes (number)",UIS.E.0.PR.T,9878,2012
+Chad,TCD,"Enrolment in early childhood education, public institutions, both sexes (number)",UIS.E.0.PU.T,3060,2013
+Chad,TCD,"Enrolment in Grade 1 of primary education, female (number)",UIS.E.1.G1.F,267357,2011
+Chad,TCD,"Enrolment in Grade 1 of primary education, female (number)",UIS.E.1.G1.F,66574,1992
+Chad,TCD,"Enrolment in Grade 1 of primary education, female (number)",UIS.E.1.G1.F,112789,1998
+Chad,TCD,"Enrolment in Grade 1 of primary education, female (number)",UIS.E.1.G1.F,50961,1988
+Chad,TCD,"Enrolment in Grade 1 of primary education, female (number)",UIS.E.1.G1.F,48002,1989
+Chad,TCD,"Enrolment in Grade 1 of primary education, female (number)",UIS.E.1.G1.F,19484,1972
+Chad,TCD,"Enrolment in Grade 2 of primary education, female (number)",UIS.E.1.G2.F,152262,2009
+Chad,TCD,"Enrolment in Grade 3 of primary education, female (number)",UIS.E.1.G3.F,119341,2009
+Chad,TCD,"Enrolment in Grade 3 of primary education, female (number)",UIS.E.1.G3.F,149928,2012
+Chad,TCD,"Enrolment in Grade 3 of primary education, female (number)",UIS.E.1.G3.F,89007,2005
+Chad,TCD,"Enrolment in Grade 3 of primary education, female (number)",UIS.E.1.G3.F,30359,1995
+Chad,TCD,"Enrolment in Grade 3 of primary education, female (number)",UIS.E.1.G3.F,8630,1977
+Chad,TCD,"Enrolment in Grade 4 of primary education, female (number)",UIS.E.1.G4.F,19247,1992
+Chad,TCD,"Enrolment in Grade 4 of primary education, female (number)",UIS.E.1.G4.F,50120,2001
+Chad,TCD,"Enrolment in Grade 4 of primary education, female (number)",UIS.E.1.G4.F,125672,2013
+Chad,TCD,"Enrolment in Grade 4 of primary education, female (number)",UIS.E.1.G4.F,62832,2003
+Chad,TCD,"Enrolment in Grade 4 of primary education, female (number)",UIS.E.1.G4.F,89457,2010
+Chad,TCD,"Enrolment in Grade 4 of primary education, female (number)",UIS.E.1.G4.F,7817,1987
+Chad,TCD,"Enrolment in Grade 4 of primary education, female (number)",UIS.E.1.G4.F,15831,1990
+Chad,TCD,"Enrolment in Grade 5 of primary education, female (number)",UIS.E.1.G5.F,8048,1989
+Chad,TCD,"Enrolment in Grade 5 of primary education, female (number)",UIS.E.1.G5.F,13145,1995
+Chad,TCD,"Enrolment in Grade 5 of primary education, female (number)",UIS.E.1.G5.F,31373,2001
+Chad,TCD,"Enrolment in Grade 6 of primary education, female (number)",UIS.E.1.G6.F,17554,2000
+Chad,TCD,"Enrolment in Grade 6 of primary education, female (number)",UIS.E.1.G6.F,10030,1992
+Chad,TCD,"Enrolment in Grade 6 of primary education, female (number)",UIS.E.1.G6.F,24152,2002
+Chad,TCD,"Enrolment in Grade 6 of primary education, female (number)",UIS.E.1.G6.F,10703,1997
+Chad,TCD,"Enrolment in Grade 6 of primary education, female (number)",UIS.E.1.G6.F,3749,1974
+Chad,TCD,"Enrolment in Grade 6 of primary education, female (number)",UIS.E.1.G6.F,3718,1985
+Chad,TCD,"Enrolment in lower secondary education, private institutions, female (number)",UIS.E.2.PR.F,20712,2012
+Chad,TCD,"Enrolment in lower secondary education, private institutions, female (number)",UIS.E.2.PR.F,17672,2010
+Chad,TCD,"Enrolment in lower secondary education, private institutions, female (number)",UIS.E.2.PR.F,5527,2000
+Chad,TCD,"Enrolment in lower secondary education, public institutions, female (number)",UIS.E.2.PU.F,85110,2012
+Chad,TCD,"Enrolment in upper secondary education, private institutions, female (number)",UIS.E.3.PR.F,7569,2010
+Chad,TCD,"Enrolment in upper secondary education, public institutions, female (number)",UIS.E.3.PU.F,27890,2011
+Chad,TCD,"Percentage of new entrants to Grade 1 of primary education with early childhood educational experience, female (%)",UIS.ECDP.1.F,4.715270042,2012
+Chad,TCD,"Out-of-school children of primary school age, percentage female (%)",UIS.FOFSTP.1,61.11894989,1999
+Chad,TCD,"Out-of-school children of primary school age, percentage female (%)",UIS.FOFSTP.1,59.2437706,1988
+Chad,TCD,"Out-of-school adolescents of lower secondary school age, percentage female (%)",UIS.FOFSTP.2,58.61975861,2003
+Chad,TCD,"Out-of-school youth of upper secondary school age, percentage female (%)",UIS.FOFSTP.3,52.56858,2001
+Chad,TCD,"Gross enrolment ratio, primary and lower secondary, female (%)",UIS.GER.12.F,58.32128143,2012
+Chad,TCD,"Gross enrolment ratio, primary and lower secondary, female (%)",UIS.GER.12.F,55.52745819,2011
+Chad,TCD,"Gross enrolment ratio, primary and lower secondary, female (%)",UIS.GER.12.F,42.32381821,2004
+Chad,TCD,"Gross enrolment ratio, primary and lower secondary, male (%)",UIS.GER.12.M,71.4678421,2008
+Chad,TCD,"Gross enrolment ratio, primary and lower secondary, male (%)",UIS.GER.12.M,56.70737076,1999
+Chad,TCD,"Gross enrolment ratio, primary and lower secondary, male (%)",UIS.GER.12.M,63.40761948,2002
+Chad,TCD,"Percentage of students in lower secondary education enrolled in vocational programmes, both sexes (%)",UIS.GTVP.2.V,0.09799999744,2007
+Chad,TCD,"Percentage of students in lower secondary education enrolled in vocational programmes, both sexes (%)",UIS.GTVP.2.V,0.2798599899,2001
+Chad,TCD,"Percentage of students in lower secondary education enrolled in vocational programmes, both sexes (%)",UIS.GTVP.2.V,0.2311999947,2003
+Chad,TCD,"Percentage of students in upper secondary education enrolled in vocational programmes, both sexes (%)",UIS.GTVP.3.V,4.408100128,2012
+Chad,TCD,"Percentage of students in upper secondary education enrolled in vocational programmes, both sexes (%)",UIS.GTVP.3.V,3.345410109,2009
+Chad,TCD,"Percentage of students in upper secondary education enrolled in vocational programmes, both sexes (%)",UIS.GTVP.3.V,3.779580116,2010
+Chad,TCD,"Elderly illiterate population, 65+ years, % female",UIS.LPP.AG65,57.91085,2000
+Chad,TCD,"UIS: Total net attendance rate, lower secondary, male (%)",UIS.NART.2.M,51.73957825,2004
+Chad,TCD,"Adjusted net enrolment rate, lower secondary, female (%)",UIS.NERA.2.F,3.062890053,2000
+Chad,TCD,"Adjusted net enrolment rate, lower secondary, male (%)",UIS.NERA.2.M,10.54189014,2001
+Chad,TCD,"Adjusted net enrolment rate, lower secondary, male (%)",UIS.NERA.2.M,8.6749897,1999
+Chad,TCD,"Total net enrolment rate, primary, female (%)",UIS.NERT.1.F,54.96406174,2011
+Chad,TCD,"Total net enrolment rate, primary, female (%)",UIS.NERT.1.F,13.84356022,1977
+Chad,TCD,"Total net enrolment rate, primary, male (%)",UIS.NERT.1.M,60.21780014,1998
+Chad,TCD,"Total net enrolment rate, primary, male (%)",UIS.NERT.1.M,35.63010025,1977
+Chad,TCD,"Adjusted net intake rate to Grade 1 of primary education, male (%)",UIS.NIRA.1.M,36.28693008,1999
+Chad,TCD,"Percentage of female students enrolled in primary education who are over-age, female (%)",UIS.OAEP.1.F,25.77372932,2011
+Chad,TCD,"Percentage of female students enrolled in primary education who are over-age, female (%)",UIS.OAEP.1.F,14.98602009,1997
+Chad,TCD,"Percentage of male students enrolled in primary education who are over-age, male (%)",UIS.OAEP.1.M,19.78949928,2002
+Chad,TCD,"Over-age enrolment ratio in primary education, male (%)",UIS.OAPP.1.M,11.74534035,1975
+Chad,TCD,"Over-age enrolment ratio in primary education, male (%)",UIS.OAPP.1.M,14.5087204,1997
+Chad,TCD,"Out-of-school children of primary school age in pre-primary education, both sexes (number)",UIS.OFSPPT.1,1975,2012
+Chad,TCD,"Out-of-school children of primary school age in pre-primary education, both sexes (number)",UIS.OFSPPT.1,1994,2011
+Chad,TCD,"Out-of-school adolescents of lower secondary school age, female (number)",UIS.OFST.2.F,323278,2001
+Chad,TCD,Pupil-teacher ratio in tertiary education (headcount basis),UIS.PTRHC.56,10.78977013,1997
+Chad,TCD,Pupil-teacher ratio in tertiary education (headcount basis),UIS.PTRHC.56,7.117650032,1974
+Chad,TCD,Pupil-teacher ratio in tertiary education (headcount basis),UIS.PTRHC.56,4.457449913,1975
+Chad,TCD,Pupil-teacher ratio in tertiary education (headcount basis),UIS.PTRHC.56,5.75,1972
+Chad,TCD,"Repeaters in Grade 1 of primary education, female (number)",UIS.R.1.G1.F,33973,2000
+Chad,TCD,"Repeaters in Grade 1 of primary education, female (number)",UIS.R.1.G1.F,21581,1995
+Chad,TCD,"Repeaters in Grade 1 of primary education, female (number)",UIS.R.1.G1.F,19100,1994
+Chad,TCD,"Repeaters in Grade 2 of primary education, female (number)",UIS.R.1.G2.F,10600,1994
+Chad,TCD,"Repeaters in Grade 2 of primary education, female (number)",UIS.R.1.G2.F,43173,2012
+Chad,TCD,"Repeaters in Grade 2 of primary education, female (number)",UIS.R.1.G2.F,63174,1998
+Chad,TCD,"Repeaters in Grade 2 of primary education, female (number)",UIS.R.1.G2.F,8464,1988
+Chad,TCD,"Repeaters in Grade 2 of primary education, female (number)",UIS.R.1.G2.F,8825,1989
+Chad,TCD,"Repeaters in Grade 3 of primary education, female (number)",UIS.R.1.G3.F,2739,1976
+Chad,TCD,"Repeaters in Grade 3 of primary education, female (number)",UIS.R.1.G3.F,8400,1994
+Chad,TCD,"Repeaters in Grade 3 of primary education, female (number)",UIS.R.1.G3.F,42773,2013
+Chad,TCD,"Repeaters in Grade 3 of primary education, female (number)",UIS.R.1.G3.F,28963,2009
+Chad,TCD,"Repeaters in Grade 4 of primary education, female (number)",UIS.R.1.G4.F,1333,1976
+Chad,TCD,"Repeaters in Grade 4 of primary education, female (number)",UIS.R.1.G4.F,2860,1988
+Chad,TCD,"Repeaters in Grade 4 of primary education, female (number)",UIS.R.1.G4.F,7483,1999
+Chad,TCD,"Repeaters in Grade 5 of primary education, female (number)",UIS.R.1.G5.F,1284,1977
+Chad,TCD,"Repeaters in Grade 5 of primary education, female (number)",UIS.R.1.G5.F,5861,2001
+Chad,TCD,"Repeaters in Grade 5 of primary education, female (number)",UIS.R.1.G5.F,4418,1997
+Chad,TCD,"Repeaters in Grade 5 of primary education, female (number)",UIS.R.1.G5.F,3828,2000
+Chad,TCD,"Repeaters in Grade 6 of primary education, female (number)",UIS.R.1.G6.F,3447,1997
+Chad,TCD,"Repeaters in Grade 6 of primary education, female (number)",UIS.R.1.G6.F,8496,2005
+Chad,TCD,"Repeaters in Grade 6 of primary education, female (number)",UIS.R.1.G6.F,12001,2011
+Chad,TCD,"Repetition rate in primary education (all grades), female (%)",UIS.REPR.1.F,33.56503,1976
+Chad,TCD,"Repetition rate in primary education (all grades), female (%)",UIS.REPR.1.F,34.60148,1995
+Chad,TCD,"Repetition rate in primary education (all grades), female (%)",UIS.REPR.1.F,27.86604,2012
+Chad,TCD,"Repetition rate in primary education (all grades), female (%)",UIS.REPR.1.F,27.91166,1999
+Chad,TCD,"Repetition rate in primary education (all grades), female (%)",UIS.REPR.1.F,32.1382,1997
+Chad,TCD,"Repetition rate in primary education (all grades), female (%)",UIS.REPR.1.F,32.70366,1996
+Chad,TCD,"Repetition rate in primary education (all grades), female (%)",UIS.REPR.1.F,33.56855,1989
+Chad,TCD,"Repetition rate in primary education (all grades), male (%)",UIS.REPR.1.M,21.35245,2004
+Chad,TCD,"Repetition rate in primary education (all grades), male (%)",UIS.REPR.1.M,26.79958,2000
+Chad,TCD,"Repetition rate in primary education (all grades), male (%)",UIS.REPR.1.M,26.53079,2012
+Chad,TCD,"Repetition rate in primary education (all grades), male (%)",UIS.REPR.1.M,25.66361,2007
+Chad,TCD,"Repetition rate in primary education (all grades), male (%)",UIS.REPR.1.M,24.89972,2002
+Chad,TCD,"Repetition rate in primary education (all grades), male (%)",UIS.REPR.1.M,35.35537,1976
+Chad,TCD,"Population of the official entrance age to primary education, both sexes (number)",UIS.SAP.1.G1,359690,2008
