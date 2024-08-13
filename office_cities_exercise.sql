@@ -1,7 +1,7 @@
 --Client wants to select which city to purchase new office space in. 
-	--Average temperature between 45 & 65 degrees Fahrenheit
-	--Average commute time under 60 minutes
-	--Happiness ranking among top 15 happiest cities in the world
+	--Average temperature between 45 & 65 degrees Fahrenheit.
+	--Average commute time under 60 minutes.
+	--Happiness ranking among top 15 happiest cities in the world.
 --Where should this company choose to purchase a new office space? 
 
 SELECT
