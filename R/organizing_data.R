@@ -17,7 +17,8 @@ penguins %>%
 penguins %>%
   group_by(species, island) %>%
   drop_na() %>% # Drops any rows with missing data from the table
-  summarize(max_bill_length_mm = max(bill_length_mm), mean_bill_length_mm = mean(bill_length_mm))
+  summarize(max_bill_length_mm = max(bill_length_mm),
+            mean_bill_length_mm = mean(bill_length_mm))
 
 penguins %>%
   filter(species == "Adelie")
