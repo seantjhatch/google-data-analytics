@@ -1,12 +1,12 @@
-#Conditional Statements
+# Conditional Statements
 
-#if
+# if
 x <- 4
 if(x > 0) {
     print("x is a positive number")
 }
 
-#else
+# else
 x <- 7
 if(x > 0) {
   print("x is a postive number")
@@ -21,7 +21,7 @@ if(x>0) {
   print("x is either a negative number or zero")
 }
   
-#else if
+# else if
 x <- 0
 if (x > 0) {
   print("x is a postive number")
