@@ -59,4 +59,4 @@ Feel free to explore the projects in this repository. Each project folder contai
 
 ## Contact
 
-I'm always open to feedback, collaboration, and new opportunities. Feel free to reach out to me via [LinkedIn](www.linkedin.com/in/sean-hatch-068b68315) or [email](seantjhatch@gmail.com).
+I'm always open to feedback, collaboration, and new opportunities. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/sean-hatch-068b68315) or [email](mailto:seantjhatch@gmail.com).
