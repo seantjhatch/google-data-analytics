@@ -2,11 +2,13 @@
 
 Welcome to my Google Data Analytics Coursework repository! This space showcases my journey through the Google Data Analytics Professional Certificate program. The projects here represent the skills and knowledge I've acquired in data analysis, ranging from data cleaning and visualization to statistical analysis and data-driven decision-making.
 
+## Certification
+I received my certification from the Google Data Analytics Professional Certificate Program on August 21, 2024. It can be seen [here](https://www.credly.com/badges/0624edaa-30fc-4bcd-a498-cf9efa152d29/public_url).
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Coursework Overview](#coursework-overview)
 - [Skills Demonstrated](#skills-demonstrated)
-- [Projects](#projects)
 - [Tools & Technologies](#tools--technologies)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Contact](#contact)
@@ -20,10 +22,10 @@ This repository contains my work from the Google Data Analytics Professional Cer
 The Google Data Analytics Professional Certificate program covers the following areas:
 
 - Data Cleaning and Transformation
-- Data Visualization
+- Data Visualization Using Spreadsheets, Tableau, and R
 - Exploratory Data Analysis (EDA)
 - Statistical Analysis
-- SQL for Data Analysis
+- SQL and R for Data Analysis
 - Data-Driven Decision Making
 
 Each project within this repository aligns with these core areas, demonstrating my ability to apply theoretical knowledge to practical scenarios.
