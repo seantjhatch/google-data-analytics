@@ -1,0 +1,501 @@
+rental_id,duration,duration_ms,bike_id,bike_model,end_date,end_station_id,end_station_name,start_date,start_station_id,start_station_name,end_station_logical_terminal,start_station_logical_terminal,end_station_priority_id
+57870195,3840,3840000,4229,,8/31/2016 20:49:00,,"Golden Square, Soho",8/31/2016 19:45:00,,"Albert Gate, Hyde Park",3451,1132,0
+57852555,3840,3840000,242,,8/31/2016 15:19:00,,"Embankment (Savoy), Strand",8/31/2016 14:15:00,,"Albert Gate, Hyde Park",1192,1132,0
+57872531,3840,3840000,728,,8/31/2016 22:12:00,,"Green Park Station, Mayfair",8/31/2016 21:08:00,,"Chepstow Villas, Notting Hill",200096,1120,1
+57995603,2820,2820000,4375,,9/4/2016 17:10:00,,"Park Lane , Hyde Park",9/4/2016 16:23:00,,"Hyde Park Corner, Hyde Park",1037,1075,0
+57933206,2820,2820000,2992,,9/2/2016 14:19:00,,"Wellington Arch, Hyde Park",9/2/2016 13:32:00,,"Serpentine Car Park, Hyde Park",1109,1217,1
+58060400,2820,2820000,12779,,9/6/2016 18:00:00,,"St. Mark's Road, North Kensington",9/6/2016 17:13:00,,"William IV Street, Strand",300034,1028,0
+57982105,2820,2820000,9054,,9/4/2016 11:28:00,,"Storey's Gate, Westminster",9/4/2016 10:41:00,,"Warwick Square, Pimlico",200202,3460,0
+57986796,2820,2820000,13499,,9/4/2016 13:43:00,,"Black Lion Gate, Kensington Gardens",9/4/2016 12:56:00,,"Black Lion Gate, Kensington Gardens",1157,1157,1
+58026205,1800,1800000,12582,,9/5/2016 18:19:00,,"Little Brook Green, Brook Green",9/5/2016 17:49:00,,"Bridge Avenue, Hammersmith",300101,300082,0
+57883193,1800,1800000,12569,,9/1/2016 9:16:00,,"The Vale, Chelsea",9/1/2016 8:46:00,,"Oxford Road, Putney",300058,300078,0
+57967891,1800,1800000,8858,,9/3/2016 14:52:00,,"Flamborough Street, Limehouse",9/3/2016 14:22:00,,"Regent's Row , Haggerston",200115,200064,0
+57921138,1800,1800000,4210,,9/2/2016 8:31:00,,"Derry Street, Kensington",9/2/2016 8:01:00,,"Kennington Cross, Kennington",3436,1093,0
+57849712,1800,1800000,11854,,8/31/2016 13:08:00,,"Park Lane , Hyde Park",8/31/2016 12:38:00,,"Park Lane , Hyde Park",1037,1037,0
+58015527,1800,1800000,10793,,9/5/2016 12:42:00,,"Godliman Street, St. Paul's",9/5/2016 12:12:00,,"Wardour Street, Soho",971,1163,1
+57898384,1800,1800000,5270,,9/1/2016 17:03:00,,"Hyde Park Corner, Hyde Park",9/1/2016 16:33:00,,"Paddington Green, Paddington",1075,2670,1
+57945226,1800,1800000,7385,,9/2/2016 18:46:00,,"Arlington Road, Camden Town",9/2/2016 18:16:00,,"Museum of London, Barbican",200070,1043,0
+58059756,1800,1800000,8814,,9/6/2016 17:33:00,,"Golden Lane, Barbican",9/6/2016 17:03:00,,"Bury Place, Holborn",967,200074,0
+57987369,1800,1800000,712,,9/4/2016 13:39:00,,"Podium, Queen Elizabeth Olympic Park",9/4/2016 13:09:00,,"East Village, Queen Elizabeth Olympic Park",300021,300200,1
+57952053,1800,1800000,5572,,9/2/2016 23:27:00,,"Hawley Crescent, Camden Town",9/2/2016 22:57:00,,"Bonny Street, Camden Town",200122,200105,0
+57929108,1800,1800000,8805,,9/2/2016 11:29:00,,"Fanshaw Street, Hoxton",9/2/2016 10:59:00,,"Wellington Arch, Hyde Park",3427,1109,0
+57869436,1800,1800000,5530,,8/31/2016 19:58:00,,"Park Lane, Mayfair",8/31/2016 19:28:00,,"Albert Gate, Hyde Park",300093,1132,0
+57900442,1800,1800000,13362,,9/1/2016 17:41:00,,"Copper Box Arena, Queen Elizabeth Olympic Park",9/1/2016 17:11:00,,"Copper Box Arena, Queen Elizabeth Olympic Park",300226,300226,0
+57866017,1800,1800000,9739,,8/31/2016 19:04:00,,"Ilchester Gardens, Bayswater",8/31/2016 18:34:00,,"Pall Mall East, West End",200086,1153,0
+57989968,1800,1800000,10086,,9/4/2016 14:40:00,,"Copper Box Arena, Queen Elizabeth Olympic Park",9/4/2016 14:10:00,,"Driffield Road, Old Ford",300226,200030,0
+57991154,1800,1800000,9754,,9/4/2016 15:08:00,,"Marylebone Lane, Marylebone",9/4/2016 14:38:00,,"Stephendale Road, Sands End",1152,300053,0
+57898328,1800,1800000,11708,,9/1/2016 17:02:00,,"Whiteley's, Bayswater",9/1/2016 16:32:00,,"Grosvenor Road, Pimlico",1150,1140,0
+57911924,1800,1800000,14337,,9/1/2016 20:23:00,,"Somerset House, Strand",9/1/2016 19:53:00,,"Tower Gardens , Tower",200068,1071,0
+57948557,1800,1800000,5915,,9/2/2016 20:04:00,,"Sandilands Road, Walham Green",9/2/2016 19:34:00,,"Sandilands Road, Walham Green",300001,300001,0
+57859077,1800,1800000,10775,,8/31/2016 17:42:00,,"Aquatic Centre, Queen Elizabeth Olympic Park",8/31/2016 17:12:00,,"Great Tower Street, Monument",300233,1080,1
+57931257,1800,1800000,9101,,9/2/2016 12:57:00,,"Triangle Car Park, Hyde Park",9/2/2016 12:27:00,,"Hyde Park Corner, Hyde Park",1088,1075,1
+57884945,780,780000,11328,,9/1/2016 9:24:00,,"Embankment (Savoy), Strand",9/1/2016 9:11:00,,"Cardinal Place, Victoria",1192,968,0
+57910232,780,780000,12144,,9/1/2016 19:30:00,,"Central House, Aldgate",9/1/2016 19:17:00,,"Queensbridge Road, Haggerston",3430,200024,0
+57977363,780,780000,10327,,9/3/2016 23:24:00,,"Addison Road, Holland Park",9/3/2016 23:11:00,,"Hortensia Road, West Brompton",200218,300091,0
+57897201,780,780000,7492,,9/1/2016 16:19:00,,"Walnut Tree Walk, Vauxhall",9/1/2016 16:06:00,,"Cotton Garden Estate, Kennington",1076,990,0
+57836760,780,780000,9214,,8/31/2016 7:35:00,,"West Smithfield Rotunda, Farringdon",8/31/2016 7:22:00,,"Belgrove Street , King's Cross",1040,1011,1
+58062540,780,780000,2948,,9/6/2016 17:54:00,,"Baylis Road, Waterloo",9/6/2016 17:41:00,,"Queen Street 1, Bank",1133,999,1
+58065046,780,780000,2857,,9/6/2016 18:21:00,,"Wardour Street, Soho",9/6/2016 18:08:00,,"Holborn Circus, Holborn",1163,982,1
+57843254,780,780000,8277,,8/31/2016 9:04:00,,"Holborn Circus, Holborn",8/31/2016 8:51:00,,"Waterloo Station 1, Waterloo",982,2696,1
+57975845,780,780000,4992,,9/3/2016 19:50:00,,"Imperial College, Knightsbridge",9/3/2016 19:37:00,,"Albert Gate, Hyde Park",1220,1132,0
+57955759,780,780000,8805,,9/3/2016 9:04:00,,"Clifford Street, Mayfair",9/3/2016 8:51:00,,"Endsleigh Gardens, Euston",2688,1079,1
+57897053,780,780000,8650,,9/1/2016 16:16:00,,"Waterloo Station 3, Waterloo",9/1/2016 16:03:00,,"Sun Street, Liverpool Street",1072,1084,1
+57920917,780,780000,13456,,9/2/2016 8:10:00,,"Golden Square, Soho",9/2/2016 7:57:00,,"Park Road (Baker Street), The Regent's Park",3451,1050,0
+57901355,780,780000,2666,,9/1/2016 17:37:00,,"Waterloo Station 3, Waterloo",9/1/2016 17:24:00,,"Monument Street, Monument",1072,200101,1
+58037799,780,780000,123,,9/6/2016 6:59:00,,"Wright's Lane, Kensington",9/6/2016 6:46:00,,"Seville Street, Knightsbridge",1094,1177,0
+58067352,780,780000,13328,,9/6/2016 18:48:00,,"Kennington Lane Rail Bridge, Vauxhall",9/6/2016 18:35:00,,"Howick Place, Westminster",1190,2666,1
+57940491,780,780000,9532,,9/2/2016 17:15:00,,"St. Mary Axe, Aldgate",9/2/2016 17:02:00,,"Holborn Circus, Holborn",1184,982,0
+57853305,780,780000,6364,,8/31/2016 14:54:00,,"Waterloo Station 1, Waterloo",8/31/2016 14:41:00,,"Little Argyll Street, West End",2696,995,1
+57964128,780,780000,3079,,9/3/2016 13:07:00,,"Regent's Row , Haggerston",9/3/2016 12:54:00,,"Clinton Road, Mile End",200064,200161,1
+57924948,780,780000,12473,,9/2/2016 9:04:00,,"Museum of London, Barbican",9/2/2016 8:51:00,,"Palissy Street, Shoreditch",1043,3502,0
+57859759,780,780000,13568,,8/31/2016 17:35:00,,"Park Lane , Hyde Park",8/31/2016 17:22:00,,"Pont Street, Knightsbridge",1037,1114,0
+58060213,780,780000,8,,9/6/2016 17:23:00,,"Old Street Station, St. Luke's",9/6/2016 17:10:00,,"Great Tower Street, Monument",1064,1080,1
+57987915,780,780000,2110,,9/4/2016 13:36:00,,"Warwick Avenue Station, Maida Vale",9/4/2016 13:23:00,,"All Saints' Road, Portobello",1027,300026,0
+57900014,780,780000,6531,,9/1/2016 17:18:00,,"Nevern Place, Earl's Court",9/1/2016 17:05:00,,"Imperial College, Knightsbridge",1210,1220,0
+58000293,780,780000,4075,,9/4/2016 18:37:00,,"Rodney Road , Walworth",9/4/2016 18:24:00,,"Blackfriars Road, Southwark",3481,300214,0
+58038984,780,780000,8576,,9/6/2016 7:40:00,,"Appold Street, Liverpool Street",9/6/2016 7:27:00,,"Cromer Street, Bloomsbury",997,300205,0
+58012019,780,780000,2308,,9/5/2016 9:13:00,,"Drury Lane, Covent Garden",9/5/2016 9:00:00,,"Cardinal Place, Victoria",1007,968,1
+57996513,780,780000,13549,,9/4/2016 16:58:00,,"Albert Bridge Road, Battersea Park",9/4/2016 16:45:00,,"Gloucester Road Station, South Kensington",300045,1107,0
+57971824,780,780000,7162,,9/3/2016 16:00:00,,"Pont Street, Knightsbridge",9/3/2016 15:47:00,,"Belgrave Road, Victoria",1114,1087,0
+57914692,780,780000,2673,,9/1/2016 21:46:00,,"Mile End Stadium, Mile End",9/1/2016 21:33:00,,"Westferry DLR, Limehouse",300056,200238,0
+57960483,780,780000,2257,,9/3/2016 11:49:00,,"Westferry Circus, Canary Wharf",9/3/2016 11:36:00,,"Mile End Park Leisure Centre, Mile End",300228,300027,0
+57897648,780,780000,8609,,9/1/2016 16:30:00,,"Ormonde Gate, Chelsea",9/1/2016 16:17:00,,"World's End Place, West Chelsea",300089,300009,0
+57966375,780,780000,6174,,9/3/2016 13:59:00,,"Chapel Place, Marylebone",9/3/2016 13:46:00,,"Devonshire Terrace, Bayswater",1003,1227,0
+57903846,780,780000,8262,,9/1/2016 18:07:00,,"Torrens Street, Angel",9/1/2016 17:54:00,,"Fournier Street, Whitechapel",1060,200157,0
+57946231,780,780000,13831,,9/2/2016 18:50:00,,"Hatton Garden, Holborn",9/2/2016 18:37:00,,"Waterloo Station 2, Waterloo",985,2692,0
+58070275,780,780000,3762,,9/6/2016 19:33:00,,"Great Percy Street, Clerkenwell",9/6/2016 19:20:00,,"Bath Street, St. Luke's",3470,964,0
+57896633,780,780000,7224,,9/1/2016 16:05:00,,"Charing Cross Hospital, Hammersmith",9/1/2016 15:52:00,,"Derry Street, Kensington",300018,3436,0
+57987833,780,780000,3599,,9/4/2016 13:34:00,,"Fulham Broadway, Walham Green",9/4/2016 13:21:00,,"Chesilton Road, Fulham",300086,300054,0
+57905260,780,780000,1175,,9/1/2016 18:22:00,,"Elizabeth Bridge, Victoria",9/1/2016 18:09:00,,"Derry Street, Kensington",1138,3436,0
+57834631,780,780000,5188,,8/31/2016 1:42:00,,"Goswell Road (City Uni), Finsbury",8/31/2016 1:29:00,,"Wardour Street, Soho",1222,1163,0
+58019161,780,780000,13383,,9/5/2016 15:10:00,,"Limerston Street, West Chelsea",9/5/2016 14:57:00,,"Sedding Street, Sloane Square",200001,3420,0
+58068323,780,780000,10364,,9/6/2016 19:01:00,,"Lambeth North Station, Waterloo",9/6/2016 18:48:00,,"Queen Street 1, Bank",1117,999,0
+57965219,780,780000,11467,,9/3/2016 13:32:00,,"Baylis Road, Waterloo",9/3/2016 13:19:00,,"South Lambeth Road, Vauxhall",1133,200133,1
+58012556,780,780000,13779,,9/5/2016 9:29:00,,"Holborn Circus, Holborn",9/5/2016 9:16:00,,"Doric Way , Somers Town",982,1004,1
+57999060,780,780000,2904,,9/4/2016 18:03:00,,"Park Road (Baker Street), The Regent's Park",9/4/2016 17:50:00,,"Prince Albert Road, The Regent's Park",1050,2636,0
+58045155,780,780000,7132,,9/6/2016 9:03:00,,"East Road, Hoxton",9/6/2016 8:50:00,,"Norton Folgate, Liverpool Street",1054,1068,0
+57944467,780,780000,12309,,9/2/2016 18:16:00,,"Brushfield Street, Liverpool Street",9/2/2016 18:03:00,,"Tooley Street, Bermondsey",1161,1142,1
+57918578,780,780000,12619,,9/2/2016 7:08:00,,"Broadcasting House, Marylebone",9/2/2016 6:55:00,,"Parkway, Camden Town",3424,200118,0
+58049805,780,780000,1048,,9/6/2016 11:35:00,,"Olympia Way, Olympia",9/6/2016 11:22:00,,"Natural History Museum, South Kensington",300004,2677,0
+57838798,780,780000,8504,,8/31/2016 8:12:00,,"Park Road (Baker Street), The Regent's Park",8/31/2016 7:59:00,,"Warwick Avenue Station, Maida Vale",1050,1027,0
+58016408,780,780000,13442,,9/5/2016 13:08:00,,"Wells Street, Fitzrovia",9/5/2016 12:55:00,,"Red Lion Street, Holborn",3495,22171,0
+57918501,780,780000,9089,,9/2/2016 7:04:00,,"Farm Street, Mayfair",9/2/2016 6:51:00,,"Imperial College, Knightsbridge",2678,1220,0
+57913566,780,780000,6607,,9/1/2016 20:57:00,,"Lambeth Road, Vauxhall",9/1/2016 20:44:00,,"Soho Square , Soho",1078,1052,0
+58012317,780,780000,5484,,9/5/2016 9:21:00,,"Tooley Street, Bermondsey",9/5/2016 9:08:00,,"Poured Lines, Bankside",1142,1144,1
+57952569,780,780000,7314,,9/2/2016 23:51:00,,"Theobald's Road , Holborn",9/2/2016 23:38:00,,"Waterloo Station 3, Waterloo",975,1072,1
+57942369,780,780000,8295,,9/2/2016 17:44:00,,"Wenlock Road , Hoxton",9/2/2016 17:31:00,,"Malet Street, Bloomsbury",979,980,0
+57942620,780,780000,4432,,9/2/2016 17:48:00,,"Bethnal Green Road, Shoreditch",9/2/2016 17:35:00,,"Hatton Wall, Holborn",973,1008,1
+57851385,780,780000,5569,,8/31/2016 13:48:00,,"Storey's Gate, Westminster",8/31/2016 13:35:00,,"Red Lion Street, Holborn",200202,22171,0
+57974014,780,780000,734,,9/3/2016 16:57:00,,"Sedding Street, Sloane Square",9/3/2016 16:44:00,,"Park Lane , Hyde Park",3420,1037,0
+58047418,780,780000,2698,,9/6/2016 9:46:00,,"Wood Street, Guildhall",9/6/2016 9:33:00,,"Waterloo Road, South Bank",1063,1176,0
+57887664,780,780000,7161,,9/1/2016 10:57:00,,"William Morris Way, Sands End",9/1/2016 10:44:00,,"Bishop's Avenue, Fulham",200062,200043,0
+57981821,780,780000,12297,,9/4/2016 10:44:00,,"Pitfield Street North,Hoxton",9/4/2016 10:31:00,,"Northington Street , Holborn",200152,3425,0
+57881083,780,780000,11776,,9/1/2016 8:34:00,,"Palace Gardens Terrace, Notting Hill",9/1/2016 8:21:00,,"Natural History Museum, South Kensington",2633,2677,0
+57922562,780,780000,9665,,9/2/2016 8:35:00,,"Red Lion Square, Holborn",9/2/2016 8:22:00,,"Waterloo Station 3, Waterloo",3421,1072,0
+58037472,780,780000,9310,,9/6/2016 6:41:00,,"Hatton Wall, Holborn",9/6/2016 6:28:00,,"Shoreditch Park, Hoxton",1008,1051,1
+57880432,780,780000,9230,,9/1/2016 8:26:00,,"Concert Hall Approach 2, South Bank",9/1/2016 8:13:00,,"Finsbury Circus, Liverpool Street",1212,984,1
+58055911,780,780000,11409,,9/6/2016 15:32:00,,"Queen Street 1, Bank",9/6/2016 15:19:00,,"Jubilee Gardens, South Bank",999,1111,1
+57926751,780,780000,14210,,9/2/2016 9:38:00,,"Empire Square, The Borough",9/2/2016 9:25:00,,"Kennington Lane Rail Bridge, Vauxhall",1209,1190,0
+57986376,780,780000,9687,,9/4/2016 12:59:00,,"Palace Gate, Kensington Gardens",9/4/2016 12:46:00,,"Albert Gate, Hyde Park",1110,1132,0
+58039973,780,780000,12306,,9/6/2016 7:59:00,,"Malet Street, Bloomsbury",9/6/2016 7:46:00,,"Waterloo Station 1, Waterloo",980,2696,1
+58061709,780,780000,3313,,9/6/2016 17:44:00,,"Little Argyll Street, West End",9/6/2016 17:31:00,,"Bury Place, Holborn",995,200074,1
+57893853,780,780000,10601,,9/1/2016 14:39:00,,"Wellington Street , Strand",9/1/2016 14:26:00,,"Clerkenwell Green, Clerkenwell",1202,1053,0
+58033012,780,780000,9786,,9/5/2016 20:03:00,,"Ada Street, Hackney Central",9/5/2016 19:50:00,,"Torrens Street, Angel",300040,1060,0
+57904742,780,780000,10775,,9/1/2016 18:17:00,,"Blackfriars Road, Southwark",9/1/2016 18:04:00,,"Roscoe Street, St. Luke's",300214,1026,0
+58060496,780,780000,7758,,9/6/2016 17:27:00,,"Globe Town Market, Bethnal Green",9/6/2016 17:14:00,,"Finsbury Square , Moorgate",200247,1056,0
+57862452,780,780000,6506,,8/31/2016 18:07:00,,"Kingsway Southbound, Strand",8/31/2016 17:54:00,,"Hampton Street, Walworth",200226,1118,0
+58062602,780,780000,5041,,9/6/2016 17:55:00,,"Belgrave Road, Victoria",9/6/2016 17:42:00,,"Baker Street, Marylebone",1087,1086,0
+58064962,780,780000,712,,9/6/2016 18:21:00,,"Waterloo Station 3, Waterloo",9/6/2016 18:08:00,,"Cheapside, Bank",1072,22180,1
+57996818,780,780000,4283,,9/4/2016 17:06:00,,"Limerston Street, West Chelsea",9/4/2016 16:53:00,,"Olympia Way, Olympia",200001,300004,0
+58009223,780,780000,2070,,9/5/2016 8:12:00,,"Thurtle Road, Haggerston",9/5/2016 7:59:00,,"Watney Street, Shadwell",200093,200149,0
+58034707,780,780000,7755,,9/5/2016 21:22:00,,"Flamborough Street, Limehouse",9/5/2016 21:09:00,,"Victoria Park Road, Hackney Central",200115,300011,0
+57958257,780,780000,10121,,9/3/2016 10:48:00,,"Cleveland Way, Stepney",9/3/2016 10:35:00,,"Cephas Street, Bethnal Green",200250,200073,0
+57842918,780,780000,7838,,8/31/2016 9:00:00,,"Upper Bank Street, Canary Wharf",8/31/2016 8:47:00,,"Mile End Park Leisure Centre, Mile End",200099,300027,0
+58040635,780,780000,13448,,9/6/2016 8:09:00,,"Queen Street 1, Bank",9/6/2016 7:56:00,,"Waterloo Station 2, Waterloo",999,2692,1
+57876838,780,780000,1715,,9/1/2016 7:18:00,,"Queen Street 2, Bank",9/1/2016 7:05:00,,"Walnut Tree Walk, Vauxhall",200128,1076,1
+58051253,780,780000,11847,,9/6/2016 12:38:00,,"Moorfields, Moorgate",9/6/2016 12:25:00,,"British Museum, Bloomsbury",1092,981,1
+57902557,780,780000,14292,,9/1/2016 17:52:00,,"Bricklayers Arms, Borough",9/1/2016 17:39:00,,"LSBU (Borough Road), Elephant & Castle",1070,1095,0
+57851320,780,780000,5307,,8/31/2016 13:45:00,,"Fire Brigade Pier, Vauxhall",8/31/2016 13:32:00,,"Bourne Street, Belgravia",2703,1119,0
+58038412,780,780000,1090,,9/6/2016 7:25:00,,"Woodstock Street, Mayfair",9/6/2016 7:12:00,,"London Zoo Car Park, The Regent's Park",1042,1188,0
+57922906,780,780000,9626,,9/2/2016 8:39:00,,"St. James's Square, St. James's",9/2/2016 8:26:00,,"Bourne Street, Belgravia",1067,1119,1
+57871946,780,780000,13871,,8/31/2016 20:55:00,,"Albert Gardens, Stepney",8/31/2016 20:42:00,,"Queen Street 1, Bank",22166,999,0
+57878038,780,780000,13710,,9/1/2016 7:50:00,,"St. Martin's Street, West End",9/1/2016 7:37:00,,"Belgrove Street , King's Cross",1158,1011,0
+58014551,780,780000,3390,,9/5/2016 11:16:00,,"Podium, Queen Elizabeth Olympic Park",9/5/2016 11:03:00,,"Antill Road, Mile End",300021,200041,1
+58028883,780,780000,10746,,9/5/2016 18:36:00,,"Bunhill Row, Moorgate",9/5/2016 18:23:00,,"Rodney Street, Angel",1211,1014,0
+57963772,8460,8460000,10790,,9/3/2016 15:07:00,,"Albert Gate, Hyde Park",9/3/2016 12:46:00,,"Albert Gate, Hyde Park",1132,1132,1
+57907862,3600,3600000,6836,,9/1/2016 19:39:00,,"Kensington Gore, Knightsbridge",9/1/2016 18:39:00,,"Kensington Gore, Knightsbridge",1193,1193,1
+57991566,2580,2580000,10556,,9/4/2016 15:30:00,,"North Wharf Road, Paddington",9/4/2016 14:47:00,,"Craven Street, Strand",1108,1160,0
+57856091,2580,2580000,8768,,8/31/2016 16:52:00,,"Albert Gate, Hyde Park",8/31/2016 16:09:00,,"Harriet Street, Knightsbridge",1132,2681,1
+57964062,6420,6420000,6845,,9/3/2016 14:39:00,,"Aquatic Centre, Queen Elizabeth Olympic Park",9/3/2016 12:52:00,,"Aquatic Centre, Queen Elizabeth Olympic Park",300233,300233,1
+58034993,6420,6420000,11983,,9/5/2016 23:14:00,,"St. John's Wood Church, The Regent's Park",9/5/2016 21:27:00,,"St. John's Wood Church, The Regent's Park",1091,1091,0
+57868521,52500,52500000,531,,9/1/2016 9:46:00,,"Lollard Street, Vauxhall",8/31/2016 19:11:00,,"Golden Square, Soho",998,3451,0
+57925742,1560,1560000,4524,,9/2/2016 9:30:00,,"Southampton Street, Strand",9/2/2016 9:04:00,,"St. John's Wood Road, St. John's Wood",1228,1187,0
+58002887,1560,1560000,6875,,9/4/2016 20:09:00,,"Buxton Street 1, Shoreditch",9/4/2016 19:43:00,,"Moor Street, Soho",1223,3504,0
+57889251,1560,1560000,8408,,9/1/2016 12:23:00,,"Bunhill Row, Moorgate",9/1/2016 11:57:00,,"Hewison Street, Old Ford",1211,200006,0
+57920942,1560,1560000,13794,,9/2/2016 8:24:00,,"St. George Street, Mayfair",9/2/2016 7:58:00,,"Gwendwr Road, West Kensington",1221,300097,0
+57982294,1560,1560000,64,,9/4/2016 11:13:00,,"Alderney Street, Pimlico",9/4/2016 10:47:00,,"Ebury Bridge, Pimlico",1174,22159,0
+57946394,1560,1560000,10796,,9/2/2016 19:07:00,,"Queen Street 2, Bank",9/2/2016 18:41:00,,"Curlew Street, Shad Thames",200128,1213,1
+57867388,1560,1560000,3244,,8/31/2016 19:18:00,,"Charlbert Street, St. John's Wood",8/31/2016 18:52:00,,"Holborn Circus, Holborn",3422,982,0
+58056741,1560,1560000,12314,,9/6/2016 16:12:00,,"Triangle Car Park, Hyde Park",9/6/2016 15:46:00,,"Triangle Car Park, Hyde Park",1088,1088,1
+57967414,1560,1560000,6111,,9/3/2016 14:38:00,,"Park Lane , Hyde Park",9/3/2016 14:12:00,,"Upcerne Road, West Chelsea",1037,300075,0
+57935721,1560,1560000,8454,,9/2/2016 15:20:00,,"Newton Street, Covent Garden",9/2/2016 14:54:00,,"West Smithfield Rotunda, Farringdon",300074,1040,1
+58023986,1560,1560000,11548,,9/5/2016 17:45:00,,"Antill Road, Mile End",9/5/2016 17:19:00,,"Liverpool Road (N1 Centre), Angel",200041,1081,0
+57842617,1560,1560000,8747,,8/31/2016 9:10:00,,"Howland Street, Fitzrovia",8/31/2016 8:44:00,,"Caldwell Street, Stockwell",2691,200137,0
+57888033,1560,1560000,12532,,9/1/2016 11:26:00,,"Devons Road, Bow",9/1/2016 11:00:00,,"Pott Street, Bethnal Green",200255,200156,0
+57977591,1560,1560000,1076,,9/4/2016 0:08:00,,"Richmond Way, Shepherd's Bush",9/3/2016 23:42:00,,"Green Street, Mayfair",200181,3464,0
+57980493,1560,1560000,5346,,9/4/2016 9:48:00,,"Santos Road, Wandsworth",9/4/2016 9:22:00,,"Ashmole Estate, Oval",200177,200223,0
+58064188,1560,1560000,13711,,9/6/2016 18:25:00,,"Great Marlborough Street, Soho",9/6/2016 17:59:00,,"LMU Commercial Road, Whitechapel",1125,1105,0
+57936043,1560,1560000,4046,,9/2/2016 15:30:00,,"Great Percy Street, Clerkenwell",9/2/2016 15:04:00,,"Cardinal Place, Victoria",3470,968,0
+58017024,1560,1560000,11717,,9/5/2016 13:49:00,,"Twig Folly Bridge, Mile End",9/5/2016 13:23:00,,"Cephas Street, Bethnal Green",200167,200073,0
+57855454,1560,1560000,14286,,8/31/2016 16:17:00,,"Palace Gardens Terrace, Notting Hill",8/31/2016 15:51:00,,"Fulham Broadway, Walham Green",2633,300086,0
+57968145,1560,1560000,6932,,9/3/2016 14:53:00,,"Hortensia Road, West Brompton",9/3/2016 14:27:00,,"Pembridge Villas, Notting Hill",300091,2589,0
+57857511,1560,1560000,9733,,8/31/2016 17:10:00,,"Malet Street, Bloomsbury",8/31/2016 16:44:00,,"Queen Street 1, Bank",980,999,1
+57987836,1560,1560000,3969,,9/4/2016 13:48:00,,"Trebovir Road, Earl's Court",9/4/2016 13:22:00,,"Knightsbridge, Hyde Park",1113,1101,0
+57901279,1560,1560000,12272,,9/1/2016 17:49:00,,"Park Lane , Hyde Park",9/1/2016 17:23:00,,"Wellington Arch, Hyde Park",1037,1109,0
+58040789,1560,1560000,8472,,9/6/2016 8:25:00,,"Godliman Street, St. Paul's",9/6/2016 7:59:00,,"Black Lion Gate, Kensington Gardens",971,1157,1
+58014977,1560,1560000,8324,,9/5/2016 12:05:00,,"Borough High Street, The Borough",9/5/2016 11:39:00,,"Erin Close, Walham Green",996,200184,0
+57943077,1560,1560000,5014,,9/2/2016 18:07:00,,"Dorset Square, Marylebone",9/2/2016 17:41:00,,"Queen Street 1, Bank",1162,999,0
+57912365,1560,1560000,5988,,9/1/2016 20:31:00,,"Ingrave Street, Clapham Junction",9/1/2016 20:05:00,,"Gloucester Road Station, South Kensington",300077,1107,0
+58036179,1560,1560000,2684,,9/5/2016 23:41:00,,"Fisherman's Walk West, Canary Wharf",9/5/2016 23:15:00,,"Heron Quays DLR, Canary Wharf",22165,200138,0
+57873779,1560,1560000,5250,,8/31/2016 22:41:00,,"Queen Victoria Street, St. Paul's",8/31/2016 22:15:00,,"Embankment (Savoy), Strand",1048,1192,0
+58026081,1560,1560000,2968,,9/5/2016 18:13:00,,"Grove End Road, St. John's Wood",9/5/2016 17:47:00,,"Rathbone Street, Fitzrovia",1130,3497,0
+57956301,1560,1560000,9864,,9/3/2016 9:51:00,,"Hyde Park Corner, Hyde Park",9/3/2016 9:25:00,,"Kensington Church Street, Kensington",1075,1143,1
+57944519,1560,1560000,5700,,9/2/2016 18:30:00,,"Prince of Wales Drive, Battersea Park",9/2/2016 18:04:00,,"Tallis Street, Temple",300073,300096,0
+57913994,1560,1560000,379,,9/1/2016 21:28:00,,"Putney Bridge Station, Fulham",9/1/2016 21:02:00,,"Lancaster Gate , Bayswater",200125,200017,0
+57917810,1560,1560000,12888,,9/2/2016 5:58:00,,"Hereford Road, Bayswater",9/2/2016 5:32:00,,"Winsland Street, Paddington",1016,3496,0
+57841911,1560,1560000,4231,,8/31/2016 9:03:00,,"Spencer Park, Wandsworth Common",8/31/2016 8:37:00,,"Humbolt Road, Fulham",200191,300068,0
+57939675,540,540000,10690,,9/2/2016 16:55:00,,"Granby Street, Shoreditch",9/2/2016 16:46:00,,"Jewry Street, Aldgate",22174,1045,0
+57836765,540,540000,9940,,8/31/2016 7:31:00,,"Newgate Street , St. Paul's",8/31/2016 7:22:00,,"Waterloo Station 3, Waterloo",1074,1072,1
+57996826,540,540000,10688,,9/4/2016 17:02:00,,"Belgrove Street , King's Cross",9/4/2016 16:53:00,,"Graham Street, Angel",1011,1131,1
+57968341,540,540000,2822,,9/3/2016 14:40:00,,"Black Lion Gate, Kensington Gardens",9/3/2016 14:31:00,,"Kensington Church Street, Kensington",1157,1143,1
+57954918,540,540000,9262,,9/3/2016 7:32:00,,"Abbey Orchard Street, Westminster",9/3/2016 7:23:00,,"Gaywood  Street, Elephant & Castle",3429,200132,1
+58011424,540,540000,12519,,9/5/2016 8:55:00,,"South Park, Sands End",9/5/2016 8:46:00,,"Disraeli Road, Putney",200180,200217,0
+58068908,540,540000,4773,,9/6/2016 19:06:00,,"Natural History Museum, South Kensington",9/6/2016 18:57:00,,"Albert Gate, Hyde Park",2677,1132,0
+57934886,540,540000,8403,,9/2/2016 14:36:00,,"Chelsea Green, Chelsea",9/2/2016 14:27:00,,"Harcourt Terrace, West Brompton",1179,300069,0
+58024004,540,540000,8628,,9/5/2016 17:29:00,,"Cleaver Street, Kennington",9/5/2016 17:20:00,,"Park Street, Bankside",10628,1024,0
+57957879,540,540000,13896,,9/3/2016 10:32:00,,"Marloes Road, Kensington",9/3/2016 10:23:00,,"Queen's Gate (Central), South Kensington",3505,1089,0
+57869830,540,540000,14169,,8/31/2016 19:45:00,,"The Green Bridge, Mile End",8/31/2016 19:36:00,,"Mile End Stadium, Mile End",200230,300056,0
+57884686,540,540000,1706,,9/1/2016 9:16:00,,"Great Marlborough Street, Soho",9/1/2016 9:07:00,,"Southampton Place, Holborn",1125,1123,0
+58020992,540,540000,4559,,9/5/2016 16:19:00,,"Chesilton Road, Fulham",9/5/2016 16:10:00,,"Putney Bridge Station, Fulham",300054,200125,0
+57843732,540,540000,992,,8/31/2016 9:07:00,,"British Museum, Bloomsbury",8/31/2016 8:58:00,,"Belgrove Street , King's Cross",981,1011,1
+57990247,540,540000,3892,,9/4/2016 14:26:00,,"Granby Street, Shoreditch",9/4/2016 14:17:00,,"Old Street Station, St. Luke's",22174,1064,0
+58058249,540,540000,6515,,9/6/2016 16:38:00,,"St. Chad's Street, King's Cross",9/6/2016 16:29:00,,"Bonny Street, Camden Town",1013,200105,0
+58060074,540,540000,986,,9/6/2016 17:17:00,,"Waterloo Station 3, Waterloo",9/6/2016 17:08:00,,"Queen Street 2, Bank",1072,200128,1
+58030366,540,540000,4016,,9/5/2016 18:57:00,,"Mile End Stadium, Mile End",9/5/2016 18:48:00,,"Finnis Street, Bethnal Green",300056,300041,0
+57921025,540,540000,6355,,9/2/2016 8:08:00,,"Eccleston Place, Victoria",9/2/2016 7:59:00,,"Horseferry Road, Westminster",3465,1170,0
+57916243,540,540000,4563,,9/1/2016 23:16:00,,"Wardour Street, Soho",9/1/2016 23:07:00,,"Old Quebec Street, Marylebone",1163,1085,1
+57980373,540,540000,4062,,9/4/2016 9:22:00,,"Park Road (Baker Street), The Regent's Park",9/4/2016 9:13:00,,"Paddington Green, Paddington",1050,2670,0
+57856138,540,540000,6791,,8/31/2016 16:20:00,,"Pitfield Street North,Hoxton",8/31/2016 16:11:00,,"Bethnal Green Road, Shoreditch",200152,973,0
+57844422,540,540000,3686,,8/31/2016 9:19:00,,"South Park, Sands End",8/31/2016 9:10:00,,"Bishop's Avenue, Fulham",200180,200043,0
+58042258,540,540000,581,,9/6/2016 8:26:00,,"Soho Square , Soho",9/6/2016 8:17:00,,"Westminster University, Marylebone",1052,1194,1
+57851282,540,540000,9735,,8/31/2016 13:40:00,,"Penywern Road, Earl's Court",8/31/2016 13:31:00,,"Limerston Street, West Chelsea",3444,200001,0
+57881396,540,540000,10127,,9/1/2016 8:34:00,,"Broadcasting House, Marylebone",9/1/2016 8:25:00,,"Euston Road, Euston",3424,983,0
+57939201,540,540000,10335,,9/2/2016 16:45:00,,"Waterloo Road, South Bank",9/2/2016 16:36:00,,"St. Bride Street, Holborn",1176,200094,0
+57849536,540,540000,2949,,8/31/2016 12:41:00,,"Bayley Street , Bloomsbury",8/31/2016 12:32:00,,"Wren Street, Holborn",1006,22169,0
+57891109,540,540000,10677,,9/1/2016 13:07:00,,"Mile End Stadium, Mile End",9/1/2016 12:58:00,,"New Road 1 , Whitechapel",300056,1171,0
+57996180,540,540000,13399,,9/4/2016 16:46:00,,"Royal Avenue 2, Chelsea",9/4/2016 16:37:00,,"Ethelburga Estate, Battersea Park",3462,300005,0
+57840811,540,540000,11288,,8/31/2016 8:34:00,,"Moorfields, Moorgate",8/31/2016 8:25:00,,"Cheshire Street, Bethnal Green",1092,200003,1
+57980279,540,540000,10939,,9/4/2016 9:16:00,,"Broadcasting House, Marylebone",9/4/2016 9:07:00,,"Porchester Place, Paddington",3424,3477,0
+57844245,540,540000,1792,,8/31/2016 9:16:00,,"Holborn Circus, Holborn",8/31/2016 9:07:00,,"Belvedere Road, South Bank",982,1186,1
+57923702,540,540000,10532,,9/2/2016 8:45:00,,"Breams Buildings, Holborn",9/2/2016 8:36:00,,"Waterloo Station 3, Waterloo",3449,1072,0
+58025399,540,540000,5003,,9/5/2016 17:48:00,,"Waterloo Station 3, Waterloo",9/5/2016 17:39:00,,"Snow Hill, Farringdon",1072,2699,1
+58035388,540,540000,8774,,9/5/2016 22:04:00,,"Cromer Street, Bloomsbury",9/5/2016 21:55:00,,"Euston Road, Euston",300205,983,0
+57876609,540,540000,1556,,9/1/2016 7:06:00,,"Newgate Street , St. Paul's",9/1/2016 6:57:00,,"Lower Marsh, Waterloo",1074,1219,1
+58048124,540,540000,10142,,9/6/2016 10:03:00,,"Malet Street, Bloomsbury",9/6/2016 9:54:00,,"Handyside Street, King's Cross",980,300241,1
+57862231,540,540000,951,,8/31/2016 18:00:00,,"Waterloo Bridge, South Bank",8/31/2016 17:51:00,,"Northington Street , Holborn",2648,3425,0
+57967592,540,540000,10257,,9/3/2016 14:25:00,,"Southwick Street, Paddington",9/3/2016 14:16:00,,"Paddington Street, Marylebone",3490,1033,0
+57951342,540,540000,2948,,9/2/2016 22:15:00,,"Hertford Road, De Beauvoir Town",9/2/2016 22:06:00,,"Brushfield Street, Liverpool Street",300092,1161,0
+57942137,540,540000,170,,9/2/2016 17:36:00,,"St. John's Park, Cubitt Town",9/2/2016 17:27:00,,"Montgomery Square, Canary Wharf",200243,200066,0
+58040886,540,540000,9576,,9/6/2016 8:09:00,,"Red Lion Square, Holborn",9/6/2016 8:00:00,,"Concert Hall Approach 2, South Bank",3421,1212,0
+58011589,540,540000,7034,,9/5/2016 8:59:00,,"Bishop's Bridge Road East, Bayswater",9/5/2016 8:50:00,,"St. Mark's Road, North Kensington",200108,300034,0
+57845221,540,540000,7648,,8/31/2016 9:38:00,,"New Fetter Lane, Holborn",8/31/2016 9:29:00,,"Concert Hall Approach 1, South Bank",200044,2635,0
+58067905,540,540000,6665,,9/6/2016 18:51:00,,"Craven Street, Strand",9/6/2016 18:42:00,,"Howick Place, Westminster",1160,2666,1
+58066492,540,540000,4812,,9/6/2016 18:34:00,,"Chadwell Street, Angel",9/6/2016 18:25:00,,"Tavistock Place, Bloomsbury",3471,3439,0
+57915941,540,540000,10701,,9/1/2016 22:55:00,,"Chelsea Bridge, Pimlico",9/1/2016 22:46:00,,"Ormonde Gate, Chelsea",22160,300089,0
+57971774,540,540000,7467,,9/3/2016 15:55:00,,"Clifton Road, Maida Vale",9/3/2016 15:46:00,,"Orsett Terrace, Bayswater",1147,2585,0
+57956996,540,540000,10395,,9/3/2016 10:02:00,,"Limerston Street, West Chelsea",9/3/2016 9:53:00,,"Vicarage Crescent, Battersea",200001,200077,0
+57897746,540,540000,611,,9/1/2016 16:28:00,,"Queen Street 2, Bank",9/1/2016 16:19:00,,"Carey Street, Holborn",200128,1139,1
+57987477,540,540000,7998,,9/4/2016 13:21:00,,"Beryl Road, Hammersmith",9/4/2016 13:12:00,,"Southerton Road, Hammersmith",200097,200166,0
+57851430,540,540000,6100,,8/31/2016 13:45:00,,"Great Russell Street, Bloomsbury",8/31/2016 13:36:00,,"Hatton Wall, Holborn",988,1008,0
+57903316,540,540000,10530,,9/1/2016 17:56:00,,"Endsleigh Gardens, Euston",9/1/2016 17:47:00,,"Red Lion Street, Holborn",1079,22171,1
+58036635,540,540000,14125,,9/6/2016 0:55:00,,"Mostyn Grove, Bow",9/6/2016 0:46:00,,"Globe Town Market, Bethnal Green",200174,200247,0
+57922431,540,540000,7685,,9/2/2016 8:30:00,,"Sun Street, Liverpool Street",9/2/2016 8:21:00,,"Christian Street, Whitechapel",1084,22177,1
+57907268,540,540000,6139,,9/1/2016 18:41:00,,"Caldwell Street, Stockwell",9/1/2016 18:32:00,,"Sancroft Street, Vauxhall",200137,3434,0
+58036091,540,540000,9638,,9/5/2016 23:10:00,,"Pott Street, Bethnal Green",9/5/2016 23:01:00,,"Granby Street, Shoreditch",200156,22174,0
+57967528,540,540000,3787,,9/3/2016 14:23:00,,"Pitfield Street North,Hoxton",9/3/2016 14:14:00,,"Sun Street, Liverpool Street",200152,1084,0
+57885087,540,540000,13304,,9/1/2016 9:23:00,,"Brick Lane Market, Shoreditch",9/1/2016 9:14:00,,"Ada Street, Hackney Central",2687,300040,0
+57978391,540,540000,1817,,9/4/2016 1:36:00,,"Bethnal Green Road, Shoreditch",9/4/2016 1:27:00,,"Columbia Road, Shoreditch",973,2701,1
+57834541,540,540000,6121,,8/31/2016 1:16:00,,"Ada Street, Hackney Central",8/31/2016 1:07:00,,"Shoreditch High Street, Shoreditch",300040,3445,0
+57936873,540,540000,6427,,9/2/2016 15:40:00,,"Holy Trinity Brompton, Knightsbridge",9/2/2016 15:31:00,,"Hortensia Road, West Brompton",1002,300091,0
+57974485,540,540000,3165,,9/3/2016 17:27:00,,"Finnis Street, Bethnal Green",9/3/2016 17:18:00,,"Fournier Street, Whitechapel",300041,200157,0
+58048675,540,540000,13698,,9/6/2016 10:29:00,,"Queen Victoria Street, St. Paul's",9/6/2016 10:20:00,,"Duke Street Hill, London Bridge",1048,300083,0
+58066274,540,540000,10728,,9/6/2016 18:31:00,,"New North Road 1, Hoxton",9/6/2016 18:22:00,,"Moorfields, Moorgate",1128,1092,0
+58026064,540,540000,11759,,9/5/2016 17:56:00,,"Eagle Wharf Road, Hoxton",9/5/2016 17:47:00,,"Wood Street, Guildhall",200246,1063,0
+57901807,540,540000,13375,,9/1/2016 17:40:00,,"World's End Place, West Chelsea",9/1/2016 17:31:00,,"Natural History Museum, South Kensington",300009,2677,0
+58060104,540,540000,1807,,9/6/2016 17:18:00,,"Duke Street Hill, London Bridge",9/6/2016 17:09:00,,"Moorfields, Moorgate",300083,1092,0
+57949065,540,540000,10669,,9/2/2016 20:00:00,,"Putney Bridge Station, Fulham",9/2/2016 19:51:00,,"Santos Road, Wandsworth",200125,200177,0
+57836049,540,540000,5332,,8/31/2016 7:10:00,,"Michael Road, Walham Green",8/31/2016 7:01:00,,"St. Luke's Church, Chelsea",300095,3486,0
+57902537,540,540000,10411,,9/1/2016 17:48:00,,"Grant Road East, Clapham Junction",9/1/2016 17:39:00,,"Parson's Green , Parson's Green",200120,200237,0
+58008361,540,540000,89,,9/5/2016 7:28:00,,"Stonecutter Street, Holborn",9/5/2016 7:19:00,,"Sun Street, Liverpool Street",1061,1084,0
+57980084,540,540000,6139,,9/4/2016 8:55:00,,"Sloane Avenue, Knightsbridge",9/4/2016 8:46:00,,"Sloane Avenue, Knightsbridge",3461,3461,0
+58061000,540,540000,11025,,9/6/2016 17:30:00,,"Westferry DLR, Limehouse",9/6/2016 17:21:00,,"Alpha Grove, Millwall",200238,200109,0
+58031459,540,540000,1739,,9/5/2016 19:18:00,,"Mile End Stadium, Mile End",9/5/2016 19:09:00,,"Mostyn Grove, Bow",300056,200174,0
+57874543,540,540000,8316,,8/31/2016 23:21:00,,"Shadwell Station, Shadwell",8/31/2016 23:12:00,,"New Road 1 , Whitechapel",200020,1171,0
+58058436,540,540000,4407,,9/6/2016 16:43:00,,"Vauxhall Cross, Vauxhall",9/6/2016 16:34:00,,"Storey's Gate, Westminster",1000,200202,0
+58041804,540,540000,13059,,9/6/2016 8:21:00,,"Carey Street, Holborn",9/6/2016 8:12:00,,"Birkenhead Street, King's Cross",1139,300212,0
+57907048,540,540000,12897,,9/1/2016 18:38:00,,"Poured Lines, Bankside",9/1/2016 18:29:00,,"Museum of London, Barbican",1144,1043,0
+57920797,540,540000,8030,,9/2/2016 8:04:00,,"Great Tower Street, Monument",9/2/2016 7:55:00,,"Empire Square, The Borough",1080,1209,1
+57952730,540,540000,2213,,9/3/2016 0:02:00,,"Doddington Grove, Kennington",9/2/2016 23:53:00,,"Baylis Road, Waterloo",200084,1133,0
+57881700,540,540000,4631,,9/1/2016 8:38:00,,"Moorfields, Moorgate",9/1/2016 8:29:00,,"Chadwell Street, Angel",1092,3471,1
+57854171,540,540000,2290,,8/31/2016 15:19:00,,"Wormwood Street, Liverpool Street",8/31/2016 15:10:00,,"St. Bride Street, Holborn",2587,200094,1
+57867256,540,540000,1026,,8/31/2016 19:00:00,,"Putney Pier, Wandsworth",8/31/2016 18:51:00,,"Chesilton Road, Fulham",3492,300054,0
+57849383,540,540000,14150,,8/31/2016 12:36:00,,"Westbourne Grove, Bayswater",8/31/2016 12:27:00,,"All Saints Church, Portobello",1041,300023,0
+58000070,540,540000,9147,,9/4/2016 18:26:00,,"Gloucester Avenue, Camden Town",9/4/2016 18:17:00,,"Charlbert Street, St. John's Wood",200145,3422,0
+58045175,540,540000,285,,9/6/2016 9:00:00,,"Baldwin Street, St. Luke's",9/6/2016 8:51:00,,"Holborn Circus, Holborn",3500,982,0
+57965180,540,540000,11995,,9/3/2016 13:27:00,,"Phillimore Gardens, Kensington",9/3/2016 13:18:00,,"Gwendwr Road, West Kensington",1018,300097,0
+58057811,540,540000,5132,,9/6/2016 16:26:00,,"Ashley Place, Victoria",9/6/2016 16:17:00,,"Lambeth Road, Vauxhall",1122,1078,0
+58043687,540,540000,9451,,9/6/2016 8:43:00,,"Appold Street, Liverpool Street",9/6/2016 8:34:00,,"Thurtle Road, Haggerston",997,200093,0
+57855791,540,540000,12926,,8/31/2016 16:10:00,,"Farringdon Lane, Clerkenwell",8/31/2016 16:01:00,,"Old Street Station, St. Luke's",3432,1064,0
+57970526,540,540000,721,,9/3/2016 15:29:00,,"Queensdale Road, Shepherd's Bush",9/3/2016 15:20:00,,"Turquoise Island, Notting Hill",300088,2682,0
+58059758,540,540000,7553,,9/6/2016 17:12:00,,"Cheapside, Bank",9/6/2016 17:03:00,,"City Road, Angel",22180,2690,1
+58022239,540,540000,2264,,9/5/2016 16:55:00,,"Finsbury Circus, Liverpool Street",9/5/2016 16:46:00,,"New Globe Walk, Bankside",984,1015,1
+57909137,540,540000,7635,,9/1/2016 19:07:00,,"Pott Street, Bethnal Green",9/1/2016 18:58:00,,"Old Montague Street, Whitechapel",200156,200239,0
+57909309,540,540000,2638,,9/1/2016 19:09:00,,"New Cavendish Street, Marylebone",9/1/2016 19:00:00,,"Taviton Street, Bloomsbury",200005,1009,0
+58005911,540,540000,3509,,9/4/2016 22:16:00,,"Battersea Church Road, Battersea",9/4/2016 22:07:00,,"Flood Street, Chelsea",200201,1218,0
+57913156,540,540000,12435,,9/1/2016 20:38:00,,"Vereker Road North, West Kensington",9/1/2016 20:29:00,,"Chesilton Road, Fulham",200116,300054,0
+57909862,540,540000,3662,,9/1/2016 19:19:00,,"Belgrove Street , King's Cross",9/1/2016 19:10:00,,"Red Lion Street, Holborn",1011,22171,1
+57907039,540,540000,5205,,9/1/2016 18:38:00,,"Royal College Street, Camden Town",9/1/2016 18:29:00,,"Wren Street, Holborn",2686,22169,0
+58013389,540,540000,949,,9/5/2016 9:59:00,,"Red Lion Street, Holborn",9/5/2016 9:50:00,,"River Street , Clerkenwell",22171,1023,1
+58014427,540,540000,4388,,9/5/2016 11:03:00,,"Great Russell Street, Bloomsbury",9/5/2016 10:54:00,,"Marylebone Lane, Marylebone",988,1152,0
+57860874,540,540000,2517,,8/31/2016 17:45:00,,"Duke Street Hill, London Bridge",8/31/2016 17:36:00,,"Newgate Street , St. Paul's",300083,1074,0
+57882560,540,540000,6425,,9/1/2016 8:47:00,,"Waterloo Road, South Bank",9/1/2016 8:38:00,,"Webber Street , Southwark",1176,3448,0
+57839519,540,540000,13115,,8/31/2016 8:18:00,,"Bell Lane, Liverpool Street",8/31/2016 8:09:00,,"Curlew Street, Shad Thames",200036,1213,0
+57994765,540,540000,6427,,9/4/2016 16:11:00,,"Palissy Street, Shoreditch",9/4/2016 16:02:00,,"Regent's Row , Haggerston",3502,200064,0
+57845739,540,540000,6431,,8/31/2016 9:55:00,,"Craven Street, Strand",8/31/2016 9:46:00,,"Milroy Walk, South Bank",1160,959,1
+58069158,540,540000,5891,,9/6/2016 19:09:00,,"Bell Lane, Liverpool Street",9/6/2016 19:00:00,,"Newgate Street , St. Paul's",200036,1074,0
+57864632,540,540000,12830,,8/31/2016 18:27:00,,"Northdown Street, King's Cross",8/31/2016 18:18:00,,"Baldwin Street, St. Luke's",200058,3500,0
+57965439,540,540000,14315,,9/3/2016 13:33:00,,"Turquoise Island, Notting Hill",9/3/2016 13:24:00,,"Derry Street, Kensington",2682,3436,0
+58058776,540,540000,9935,,9/6/2016 16:50:00,,"Baylis Road, Waterloo",9/6/2016 16:41:00,,"Queen Victoria Street, St. Paul's",1133,1048,1
+57850631,4380,4380000,767,,8/31/2016 14:22:00,,"Kennington Road  , Vauxhall",8/31/2016 13:09:00,,"Tyers Gate, Bermondsey",1154,3485,0
+58019944,4380,4380000,6001,,9/5/2016 16:44:00,,"Castalia Square, Cubitt Town",9/5/2016 15:31:00,,"Buckingham Gate, Westminster",200155,200178,0
+58057920,12060,12060000,3697,,9/6/2016 19:41:00,,"Little Argyll Street, West End",9/6/2016 16:20:00,,"Turquoise Island, Notting Hill",995,2682,1
+58067403,3360,3360000,14016,,9/6/2016 19:31:00,,"Albert Gate, Hyde Park",9/6/2016 18:35:00,,"Albert Gate, Hyde Park",1132,1132,1
+57983347,7200,7200000,1356,,9/4/2016 13:23:00,,"Montgomery Square, Canary Wharf",9/4/2016 11:23:00,,"Stratford Station, Stratford",200066,300234,0
+57867573,2340,2340000,3229,,8/31/2016 19:34:00,,"Pall Mall East, West End",8/31/2016 18:55:00,,"Black Lion Gate, Kensington Gardens",1153,1157,0
+57933400,2340,2340000,2426,,9/2/2016 14:17:00,,"Park Lane , Hyde Park",9/2/2016 13:38:00,,"Park Lane , Hyde Park",1037,1037,0
+57970666,2340,2340000,4835,,9/3/2016 16:02:00,,"Aquatic Centre, Queen Elizabeth Olympic Park",9/3/2016 15:23:00,,"Aquatic Centre, Queen Elizabeth Olympic Park",300233,300233,1
+57861593,2340,2340000,11856,,8/31/2016 18:23:00,,"Tower Gardens , Tower",8/31/2016 17:44:00,,"Waterloo Place, St. James's",1071,3458,1
+58069370,2340,2340000,7579,,9/6/2016 19:43:00,,"Shoreditch Court, Haggerston",9/6/2016 19:04:00,,"Royal College Street, Camden Town",200121,2686,0
+57870124,2340,2340000,7680,,8/31/2016 20:22:00,,"Cheapside, Bank",8/31/2016 19:43:00,,"Aquatic Centre, Queen Elizabeth Olympic Park",22180,300233,1
+57897299,2340,2340000,7572,,9/1/2016 16:47:00,,"Albert Gate, Hyde Park",9/1/2016 16:08:00,,"Albert Gate, Hyde Park",1132,1132,1
+58035236,6180,6180000,4499,,9/5/2016 23:26:00,,"Ilchester Gardens, Bayswater",9/5/2016 21:43:00,,"Ilchester Gardens, Bayswater",200086,200086,0
+58034632,6180,6180000,5352,,9/5/2016 22:47:00,,"West Cromwell Road, Earl's Court",9/5/2016 21:04:00,,"West Cromwell Road, Earl's Court",1001,1001,0
+57944745,1320,1320000,1202,,9/2/2016 18:30:00,,"Smugglers Way, Wandsworth",9/2/2016 18:08:00,,"Charing Cross Hospital, Hammersmith",200113,300018,0
+57837136,1320,1320000,945,,8/31/2016 7:53:00,,"North Audley Street, Mayfair",8/31/2016 7:31:00,,"Regent's Row , Haggerston",1126,200064,0
+57931340,1320,1320000,14175,,9/2/2016 12:52:00,,"The Vale, Chelsea",9/2/2016 12:30:00,,"Denyer Street, Knightsbridge",300058,3454,0
+58037620,1320,1320000,3464,,9/6/2016 7:00:00,,"Green Street, Mayfair",9/6/2016 6:38:00,,"Ethelburga Estate, Battersea Park",3464,300005,0
+57840214,1320,1320000,8523,,8/31/2016 8:40:00,,"Silverthorne Road, Battersea",8/31/2016 8:18:00,,"Imperial Wharf Station, Sands End",200179,300070,0
+57933144,1320,1320000,13815,,9/2/2016 13:51:00,,"Parkway, Camden Town",9/2/2016 13:29:00,,"Great Marlborough Street, Soho",200118,1125,0
+57883253,1320,1320000,11456,,9/1/2016 9:09:00,,"Russell Square Station, Bloomsbury",9/1/2016 8:47:00,,"Bell Street , Marylebone",978,1166,1
+57965256,1320,1320000,11409,,9/3/2016 13:42:00,,"Concert Hall Approach 1, South Bank",9/3/2016 13:20:00,,"Great Tower Street, Monument",2635,1080,1
+57903511,1320,1320000,8990,,9/1/2016 18:12:00,,"South Wharf Road, Paddington",9/1/2016 17:50:00,,"Great Russell Street, Bloomsbury",1167,988,1
+57844123,1320,1320000,10480,,8/31/2016 9:27:00,,"Horseferry Road, Westminster",8/31/2016 9:05:00,,"Margery Street, Clerkenwell",1170,3468,0
+57895428,1320,1320000,5529,,9/1/2016 15:39:00,,"South Wharf Road, Paddington",9/1/2016 15:17:00,,"Clifton Road, Maida Vale",1167,1147,1
+58061172,1320,1320000,13063,,9/6/2016 17:46:00,,"Winsland Street, Paddington",9/6/2016 17:24:00,,"Drury Lane, Covent Garden",3496,1007,1
+57926475,1320,1320000,3626,,9/2/2016 9:40:00,,"Buckingham Gate, Westminster",9/2/2016 9:18:00,,"Wandsworth Town Station, Wandsworth",200178,200091,0
+58055778,1320,1320000,3040,,9/6/2016 15:36:00,,"Somerset House, Strand",9/6/2016 15:14:00,,"St. Katharine's Way, Tower",200068,200049,0
+57953413,1320,1320000,2416,,9/3/2016 1:21:00,,"Central House, Aldgate",9/3/2016 0:59:00,,"Soho Square , Soho",3430,1052,0
+58004117,1320,1320000,11988,,9/4/2016 20:58:00,,"Podium, Queen Elizabeth Olympic Park",9/4/2016 20:36:00,,"Podium, Queen Elizabeth Olympic Park",300021,300021,1
+57900615,1320,1320000,1813,,9/1/2016 17:36:00,,"Sancroft Street, Vauxhall",9/1/2016 17:14:00,,"Bedford Way, Bloomsbury",3434,1156,0
+57995750,1320,1320000,2648,,9/4/2016 16:48:00,,"Aldersgate Street, Barbican",9/4/2016 16:26:00,,"Tavistock Street, Covent Garden",1065,1207,1
+58071596,1320,1320000,12444,,9/6/2016 20:12:00,,"Greyhound Road, Hammersmith",9/6/2016 19:50:00,,"Porchester Place, Paddington",200215,3477,0
+57858272,1320,1320000,5800,,8/31/2016 17:23:00,,"Wormwood Street, Liverpool Street",8/31/2016 17:01:00,,"Horseferry Road, Westminster",2587,1170,1
+58047991,1320,1320000,5598,,9/6/2016 10:11:00,,"Ontario Street, Elephant & Castle",9/6/2016 9:49:00,,"Crinan Street, King's Cross",1200,22183,0
+57906398,1320,1320000,10637,,9/1/2016 18:43:00,,"Westferry DLR, Limehouse",9/1/2016 18:21:00,,"Lower Thames Street, Monument",200238,1098,0
+57877859,1320,1320000,10542,,9/1/2016 7:55:00,,"Old Quebec Street, Marylebone",9/1/2016 7:33:00,,"Halford Road, West Kensington",1085,300210,0
+58068152,1320,1320000,7046,,9/6/2016 19:08:00,,"Prince Albert Road, The Regent's Park",9/6/2016 18:46:00,,"Westbourne Park Road, Portobello",2636,300057,0
+57850160,1320,1320000,4156,,8/31/2016 13:15:00,,"Winsland Street, Paddington",8/31/2016 12:53:00,,"South Parade, Chelsea",3496,22182,1
+58021894,1320,1320000,3949,,9/5/2016 16:59:00,,"Thorndike Close, West Chelsea",9/5/2016 16:37:00,,"William IV Street, Strand",300030,1028,0
+57994148,1320,1320000,7607,,9/4/2016 16:10:00,,"Vicarage Crescent, Battersea",9/4/2016 15:48:00,,"Neville Gill Close, Wandsworth",200077,200188,0
+58024441,1320,1320000,4894,,9/5/2016 17:49:00,,"Wormwood Street, Liverpool Street",9/5/2016 17:27:00,,"Charles II Street, West End",2587,3488,1
+57923724,1320,1320000,7598,,9/2/2016 8:58:00,,"Sun Street, Liverpool Street",9/2/2016 8:36:00,,"Hewison Street, Old Ford",1084,200006,1
+57986490,1320,1320000,13534,,9/4/2016 13:11:00,,"Green Park Station, Mayfair",9/4/2016 12:49:00,,"Ashley Crescent, Battersea",200096,200169,1
+57943826,1320,1320000,10303,,9/2/2016 18:14:00,,"Bermondsey Street, Bermondsey",9/2/2016 17:52:00,,"Dunston Road , Haggerston",2637,300024,0
+57842648,1320,1320000,13563,,8/31/2016 9:06:00,,"Moorfields, Moorgate",8/31/2016 8:44:00,,"Lincoln's Inn Fields, Holborn",1092,300240,1
+57888939,1320,1320000,7941,,9/1/2016 12:05:00,,"Black Lion Gate, Kensington Gardens",9/1/2016 11:43:00,,"Park Lane , Hyde Park",1157,1037,1
+57991581,1320,1320000,6667,,9/4/2016 15:09:00,,"Buxton Street 1, Shoreditch",9/4/2016 14:47:00,,"Godliman Street, St. Paul's",1223,971,0
+58042970,1320,1320000,3570,,9/6/2016 8:48:00,,"Nesham Street, Wapping",9/6/2016 8:26:00,,"Waterloo Station 3, Waterloo",1031,1072,0
+57987304,1320,1320000,13293,,9/4/2016 13:30:00,,"Tavistock Street, Covent Garden",9/4/2016 13:08:00,,"Golden Square, Soho",1207,3451,1
+57983310,1320,1320000,7196,,9/4/2016 11:44:00,,"Palace Gate, Kensington Gardens",9/4/2016 11:22:00,,"Queen's Gate, Kensington Gardens",1110,1231,0
+57967772,1320,1320000,5933,,9/3/2016 14:41:00,,"Prince Albert Road, The Regent's Park",9/3/2016 14:19:00,,"All Saints' Road, Portobello",2636,300026,0
+58015286,1320,1320000,5751,,9/5/2016 12:20:00,,"Granby Street, Shoreditch",9/5/2016 11:58:00,,"Blackfriars Road, Southwark",22174,300214,0
+57974193,1320,1320000,8390,,9/3/2016 17:17:00,,"Queensbridge Road, Haggerston",9/3/2016 16:55:00,,"Brick Lane Market, Shoreditch",200024,2687,0
+57872514,1320,1320000,11969,,8/31/2016 21:30:00,,"Paddington Street, Marylebone",8/31/2016 21:08:00,,"Eaton Square (South), Belgravia",1033,22164,0
+57894798,1320,1320000,12712,,9/1/2016 15:18:00,,"Flood Street, Chelsea",9/1/2016 14:56:00,,"Parson's Green , Parson's Green",1218,200237,0
+57874455,1320,1320000,13196,,8/31/2016 23:26:00,,"Hampstead Road, Euston",8/31/2016 23:04:00,,"Ilchester Gardens, Bayswater",972,200086,0
+57902691,1320,1320000,3502,,9/1/2016 18:02:00,,"Bank of England Museum, Bank",9/1/2016 17:40:00,,"St. Martin's Street, West End",1201,1158,0
+57931131,1320,1320000,10787,,9/2/2016 12:45:00,,"Old Quebec Street, Marylebone",9/2/2016 12:23:00,,"Lisson Grove, St. John's Wood",1085,1030,0
+57954466,1320,1320000,8186,,9/3/2016 4:46:00,,"Northfields, Wandsworth",9/3/2016 4:24:00,,"Stewart's Road, Wandsworth Road",200204,300055,0
+57867295,1320,1320000,5964,,8/31/2016 19:13:00,,"Harford Street, Mile End",8/31/2016 18:51:00,,"River Street , Clerkenwell",200102,1023,0
+58040999,1320,1320000,1858,,9/6/2016 8:23:00,,"Exhibition Road Museums, South Kensington",9/6/2016 8:01:00,,"Fulham Park Road, Fulham",22158,200229,0
+57965604,1320,1320000,4195,,9/3/2016 13:50:00,,"Drury Lane, Covent Garden",9/3/2016 13:28:00,,"Grosvenor Crescent, Belgravia",1007,1169,1
+57903334,1320,1320000,598,,9/1/2016 18:10:00,,"Lollard Street, Vauxhall",9/1/2016 17:48:00,,"Finsbury Library , Finsbury",998,986,0
+57976717,1320,1320000,10161,,9/3/2016 21:57:00,,"Portman Square, Marylebone",9/3/2016 21:35:00,,"Crawford Street, Marylebone",200008,1036,0
+57891100,1320,1320000,13765,,9/1/2016 13:20:00,,"Selby Street, Whitechapel",9/1/2016 12:58:00,,"Stepney Green Station, Stepney",200135,200012,0
+57871382,1320,1320000,6031,,8/31/2016 20:42:00,,"Sheepcote Lane, Battersea",8/31/2016 20:20:00,,"Peterborough Road, Sands End",200176,200171,0
+58051579,1320,1320000,13670,,9/6/2016 12:59:00,,"Derry Street, Kensington",9/6/2016 12:37:00,,"Bolsover Street, Fitzrovia",3436,1025,0
+58058323,1320,1320000,5730,,9/6/2016 16:53:00,,"Belgrove Street , King's Cross",9/6/2016 16:31:00,,"Butler Place, Westminster",1011,2662,1
+58073248,1320,1320000,2242,,9/6/2016 21:09:00,,"Riverlight North, Nine Elms",9/6/2016 20:47:00,,"Rodney Road , Walworth",1165,3481,0
+58026471,1320,1320000,12816,,9/5/2016 18:14:00,,"Portman Square, Marylebone",9/5/2016 17:52:00,,"Walmer Road, Avondale",200008,200035,0
+57876151,300,300000,12312,,9/1/2016 6:39:00,,"Hollybush Gardens, Bethnal Green",9/1/2016 6:34:00,,"Regent's Row , Haggerston",200244,200064,0
+57949340,300,300000,6299,,9/2/2016 20:08:00,,"Howick Place, Westminster",9/2/2016 20:03:00,,"Regency Street, Westminster",2666,1155,1
+58013551,300,300000,6769,,9/5/2016 10:03:00,,"Tower Gardens , Tower",9/5/2016 9:58:00,,"Christian Street, Whitechapel",1071,22177,1
+57880966,300,300000,5478,,9/1/2016 8:25:00,,"Hop Exchange, The Borough",9/1/2016 8:20:00,,"Great Tower Street, Monument",960,1080,1
+57886038,300,300000,10895,,9/1/2016 9:41:00,,"Devonshire Square, Liverpool Street",9/1/2016 9:36:00,,"Clifton Street, Shoreditch",3438,3501,0
+58036573,300,300000,6531,,9/6/2016 0:35:00,,"Clarkson Street, Bethnal Green",9/6/2016 0:30:00,,"York Hall, Bethnal Green",200131,200042,0
+57971612,300,300000,12990,,9/3/2016 15:48:00,,"Westferry DLR, Limehouse",9/3/2016 15:43:00,,"Flamborough Street, Limehouse",200238,200115,0
+58012805,300,300000,7744,,9/5/2016 9:30:00,,"Bermondsey Street, Bermondsey",9/5/2016 9:25:00,,"Borough High Street, The Borough",2637,996,0
+57881311,300,300000,14136,,9/1/2016 8:29:00,,"Westferry DLR, Limehouse",9/1/2016 8:24:00,,"Lindfield Street, Poplar",200238,22178,0
+58049896,300,300000,13059,,9/6/2016 11:33:00,,"Blackfriars Road, Southwark",9/6/2016 11:28:00,,"Waterloo Bridge, South Bank",300214,2648,0
+57974855,300,300000,27,,9/3/2016 18:03:00,,"Canton Street, Poplar",9/3/2016 17:58:00,,"Chrisp Street Market, Poplar",22175,200089,0
+58051251,300,300000,6449,,9/6/2016 12:30:00,,"Fulham Park Road, Fulham",9/6/2016 12:25:00,,"Erin Close, Walham Green",200229,200184,0
+57859565,300,300000,13517,,8/31/2016 17:24:00,,"Leman Street, Aldgate",8/31/2016 17:19:00,,"Shadwell Station, Shadwell",1102,200020,1
+57939773,300,300000,4243,,9/2/2016 16:53:00,,"Pancras Road, King's Cross",9/2/2016 16:48:00,,"St Martins Close, Camden Town",3428,200195,0
+58075837,300,300000,2169,,9/6/2016 23:45:00,,"Alma Road, Wandsworth",9/6/2016 23:40:00,,"Mexfield Road, East Putney",300046,200063,0
+57982053,300,300000,10069,,9/4/2016 10:44:00,,"Phillimore Gardens, Kensington",9/4/2016 10:39:00,,"Kensington Olympia Station, Olympia",1018,1214,0
+57954374,300,300000,9066,,9/3/2016 3:53:00,,"Kennington Road Post Office, Oval",9/3/2016 3:48:00,,"Albert Square, Stockwell",1073,300209,0
+58029530,300,300000,2526,,9/5/2016 18:38:00,,"Durant Street, Bethnal Green",9/5/2016 18:33:00,,"New Inn Yard, Shoreditch",200213,1032,0
+57976500,300,300000,6250,,9/3/2016 21:00:00,,"Clarence Walk, Stockwell",9/3/2016 20:55:00,,"Caldwell Street, Stockwell",200194,200137,0
+58005081,300,300000,4310,,9/4/2016 21:23:00,,"Ashley Crescent, Battersea",9/4/2016 21:18:00,,"Sheepcote Lane, Battersea",200169,200176,0
+57837159,300,300000,3105,,8/31/2016 7:36:00,,"Hurlingham Park, Parsons Green",8/31/2016 7:31:00,,"Sandilands Road, Walham Green",300098,300001,0
+57889467,300,300000,848,,9/1/2016 12:10:00,,"Kensington Church Street, Kensington",9/1/2016 12:05:00,,"Palace Gardens Terrace, Notting Hill",1143,2633,0
+57909144,300,300000,7934,,9/1/2016 19:03:00,,"Surrey Lane, Battersea",9/1/2016 18:58:00,,"Sugden Road, Clapham",300010,200208,0
+57950137,300,300000,3396,,9/2/2016 20:45:00,,"Moorfields, Moorgate",9/2/2016 20:40:00,,"Christopher Street, Liverpool Street",1092,1012,1
+57963132,300,300000,7581,,9/3/2016 12:39:00,,"Barons Court Station, West Kensington",9/3/2016 12:34:00,,"Humbolt Road, Fulham",200197,300068,0
+58030691,300,300000,9312,,9/5/2016 18:58:00,,"Driffield Road, Old Ford",9/5/2016 18:53:00,,"Clinton Road, Mile End",200030,200161,0
+57845935,300,300000,2242,,8/31/2016 9:58:00,,"Charing Cross Hospital, Hammersmith",8/31/2016 9:53:00,,"Hammersmith Road, Hammersmith",300018,200142,0
+57916523,300,300000,4008,,9/1/2016 23:37:00,,"Bevington Road West, North Kensington",9/1/2016 23:32:00,,"Chepstow Villas, Notting Hill",300236,1120,0
+57844877,300,300000,9024,,8/31/2016 9:25:00,,"Houghton Street, Strand",8/31/2016 9:20:00,,"Craven Street, Strand",3484,1160,0
+57922549,300,300000,5973,,9/2/2016 8:27:00,,"Chapel Place, Marylebone",9/2/2016 8:22:00,,"Westminster University, Marylebone",1003,1194,0
+57946365,300,300000,2402,,9/2/2016 18:45:00,,"Clapham Common North Side, Clapham Common",9/2/2016 18:40:00,,"St. John's Road, Clapham Junction",300065,200185,0
+57903154,300,300000,11870,,9/1/2016 17:50:00,,"Finsbury Circus, Liverpool Street",9/1/2016 17:45:00,,"Queen Victoria Street, St. Paul's",984,1048,1
+58007778,300,300000,2230,,9/5/2016 6:34:00,,"Upper Bank Street, Canary Wharf",9/5/2016 6:29:00,,"Lancaster Drive, Blackwall",200099,200143,0
+58041926,300,300000,1665,,9/6/2016 8:18:00,,"Doddington Grove, Kennington",9/6/2016 8:13:00,,"Rodney Road , Walworth",200084,3481,0
+58012405,300,300000,13212,,9/5/2016 9:16:00,,"Prince Albert Road, The Regent's Park",9/5/2016 9:11:00,,"Wellington Road, St. John's Wood",2636,1055,0
+57997254,300,300000,7127,,9/4/2016 17:09:00,,"Harrowby Street, Marylebone",9/4/2016 17:04:00,,"Paddington Street, Marylebone",2680,1033,0
+57862472,300,300000,3778,,8/31/2016 17:59:00,,"Belvedere Road, South Bank",8/31/2016 17:54:00,,"Poured Lines, Bankside",1186,1144,0
+57938560,300,300000,2686,,9/2/2016 16:25:00,,"Cardinal Place, Victoria",9/2/2016 16:20:00,,"Green Park Station, Mayfair",968,200096,1
+57871692,300,300000,11509,,8/31/2016 20:37:00,,"Riverlight North, Nine Elms",8/31/2016 20:32:00,,"Vauxhall Cross, Vauxhall",1165,1000,0
+57940815,300,300000,3818,,9/2/2016 17:12:00,,"Fore Street, Guildhall",9/2/2016 17:07:00,,"Baldwin Street, St. Luke's",200253,3500,0
+57891487,300,300000,13298,,9/1/2016 13:15:00,,"Greycoat Street , Westminster",9/1/2016 13:10:00,,"Ashley Place, Victoria",10623,1122,0
+57913534,300,300000,14060,,9/1/2016 20:48:00,,"Russell Gardens, Olympia",9/1/2016 20:43:00,,"Woodstock Grove, Shepherd's Bush",200080,200214,0
+57855952,300,300000,1110,,8/31/2016 16:11:00,,"Duke Street Hill, London Bridge",8/31/2016 16:06:00,,"Curlew Street, Shad Thames",300083,1213,0
+58047970,300,300000,10114,,9/6/2016 9:53:00,,"Tower Gardens , Tower",9/6/2016 9:48:00,,"Pennington Street, Wapping",1071,200090,1
+57928032,300,300000,5891,,9/2/2016 10:14:00,,"Kennington Road  , Vauxhall",9/2/2016 10:09:00,,"Kennington Road Post Office, Oval",1154,1073,0
+58010001,300,300000,9694,,9/5/2016 8:23:00,,"Kennington Lane Rail Bridge, Vauxhall",9/5/2016 8:18:00,,"Kennington Cross, Kennington",1190,1093,1
+57884570,300,300000,12751,,9/1/2016 9:10:00,,"Hardwick Street, Clerkenwell",9/1/2016 9:05:00,,"Clerkenwell Green, Clerkenwell",1057,1053,0
+57964215,300,300000,14314,,9/3/2016 13:01:00,,"Stanley Grove, Battersea",9/3/2016 12:56:00,,"Union Grove, Wandsworth Road",200199,200211,0
+58025256,300,300000,11057,,9/5/2016 17:42:00,,"Longford Street, The Regent's Park",9/5/2016 17:37:00,,"London Zoo Car Park, The Regent's Park",976,1188,0
+58021456,300,300000,7616,,9/5/2016 16:29:00,,"Paddington Street, Marylebone",9/5/2016 16:24:00,,"Great Titchfield Street, Fitzrovia",1033,3450,0
+58034862,300,300000,6541,,9/5/2016 21:23:00,,"Harper Road, The Borough",9/5/2016 21:18:00,,"Colombo Street, Southwark",1137,3472,0
+57846206,300,300000,6656,,8/31/2016 10:10:00,,"Shoreditch High Street, Shoreditch",8/31/2016 10:05:00,,"Buxton Street 1, Shoreditch",3445,1223,1
+57944187,300,300000,12242,,9/2/2016 18:03:00,,"Bolsover Street, Fitzrovia",9/2/2016 17:58:00,,"Longford Street, The Regent's Park",1025,976,0
+57975588,300,300000,14290,,9/3/2016 19:24:00,,"Dorothy Road, Clapham Junction",9/3/2016 19:19:00,,"Albert Bridge Road, Battersea Park",200119,300045,0
+57926225,300,300000,6512,,9/2/2016 9:18:00,,"Stewart's Road, Wandsworth Road",9/2/2016 9:13:00,,"Bradmead, Battersea Park",300055,200025,0
+57918442,300,300000,6135,,9/2/2016 6:53:00,,"Queen Street 2, Bank",9/2/2016 6:48:00,,"Wormwood Street, Liverpool Street",200128,2587,1
+58010651,300,300000,13605,,9/5/2016 8:36:00,,"Jubilee Gardens, South Bank",9/5/2016 8:31:00,,"Milroy Walk, South Bank",1111,959,0
+57889215,300,300000,12871,,9/1/2016 12:00:00,,"Greycoat Street , Westminster",9/1/2016 11:55:00,,"Alderney Street, Pimlico",10623,1174,0
+57888006,300,300000,2904,,9/1/2016 11:04:00,,"Macclesfield Rd, St Lukes",9/1/2016 10:59:00,,"Murray Grove , Hoxton",1226,989,0
+58026902,300,300000,941,,9/5/2016 18:03:00,,"Great Suffolk Street, The Borough",9/5/2016 17:58:00,,"Queen Street 1, Bank",200200,999,0
+57845563,300,300000,13082,,8/31/2016 9:45:00,,"Alfred Place, Bloomsbury",8/31/2016 9:40:00,,"Gower Place , Euston",3507,969,0
+57966531,300,300000,10832,,9/3/2016 13:55:00,,"Percival Street, Finsbury",9/3/2016 13:50:00,,"Aldersgate Street, Barbican",200051,1065,0
+58016113,300,300000,3015,,9/5/2016 12:46:00,,"Barons Court Station, West Kensington",9/5/2016 12:41:00,,"Everington Street, Fulham",200197,300028,0
+57846906,300,300000,13188,,8/31/2016 10:43:00,,"Strand, Strand",8/31/2016 10:38:00,,"Waterloo Station 2, Waterloo",1100,2692,0
+58031944,300,300000,5788,,9/5/2016 19:25:00,,"Pritchard's Road, Bethnal Green",9/5/2016 19:20:00,,"Hollybush Gardens, Bethnal Green",200083,200244,0
+57874755,300,300000,12898,,8/31/2016 23:40:00,,"Margery Street, Clerkenwell",8/31/2016 23:35:00,,"St. Chad's Street, King's Cross",3468,1013,0
+58047903,300,300000,5551,,9/6/2016 9:51:00,,"Central House, Aldgate",9/6/2016 9:46:00,,"Shadwell Station, Shadwell",3430,200020,0
+57976356,300,300000,12657,,9/3/2016 20:37:00,,"Hermitage Court, Wapping",9/3/2016 20:32:00,,"Tower Gardens , Tower",200021,1071,0
+57894835,300,300000,12945,,9/1/2016 15:03:00,,"Stratford Station, Stratford",9/1/2016 14:58:00,,"Copper Box Arena, Queen Elizabeth Olympic Park",300234,300226,0
+57975122,300,300000,13580,,9/3/2016 18:36:00,,"Pitfield Street Central, Hoxton",9/3/2016 18:31:00,,"New Inn Yard, Shoreditch",200248,1032,0
+57869956,300,300000,12396,,8/31/2016 19:45:00,,"Nutford Place, Marylebone",8/31/2016 19:40:00,,"Rossmore Road, Marylebone",1112,300071,0
+57952627,300,300000,13367,,9/2/2016 23:48:00,,"Mostyn Grove, Bow",9/2/2016 23:43:00,,"Antill Road, Mile End",200174,200041,0
+57988790,300,300000,9765,,9/4/2016 13:47:00,,"Gloucester Road (North), Kensington",9/4/2016 13:42:00,,"Derry Street, Kensington",3447,3436,0
+57845515,300,300000,357,,8/31/2016 9:44:00,,"Vauxhall Cross, Vauxhall",8/31/2016 9:39:00,,"Riverlight North, Nine Elms",1000,1165,0
+58071286,300,300000,14272,,9/6/2016 19:48:00,,"Whiteley's, Bayswater",9/6/2016 19:43:00,,"Black Lion Gate, Kensington Gardens",1150,1157,0
+57929854,50220,50220000,8146,,9/3/2016 1:30:00,,"Clarence Walk, Stockwell",9/2/2016 11:33:00,,"Courland Grove, Wandsworth Road",200194,200173,0
+58017562,3120,3120000,2118,,9/5/2016 14:38:00,,"Aquatic Centre, Queen Elizabeth Olympic Park",9/5/2016 13:46:00,,"Clifford Street, Mayfair",300233,2688,1
+58064976,3120,3120000,6977,,9/6/2016 19:00:00,,"Triangle Car Park, Hyde Park",9/6/2016 18:08:00,,"Queen's Gate, Kensington Gardens",1088,1231,1
+57958562,3120,3120000,13967,,9/3/2016 11:36:00,,"Storey's Gate, Westminster",9/3/2016 10:44:00,,"Kings Gate House, Westminster",200202,300202,0
+57957507,3120,3120000,10013,,9/3/2016 11:03:00,,"Queen's Gate (South), South Kensington",9/3/2016 10:11:00,,"Queen's Gate, Kensington Gardens",1172,1231,0
+57916262,3120,3120000,6667,,9/2/2016 0:01:00,,"Longford Street, The Regent's Park",9/1/2016 23:09:00,,"Warren Street Station, Euston",976,1090,0
+57853200,3120,3120000,13675,,8/31/2016 15:29:00,,"Sedding Street, Sloane Square",8/31/2016 14:37:00,,"Aldersgate Street, Barbican",3420,1065,0
+57994079,14640,14640000,13220,,9/4/2016 19:51:00,,"Bayley Street , Bloomsbury",9/4/2016 15:47:00,,"Panton Street, West End",1006,3452,0
+58057034,2100,2100000,9118,,9/6/2016 16:31:00,,"Wardour Street, Soho",9/6/2016 15:56:00,,"Bishop's Bridge Road East, Bayswater",1163,200108,1
+57980090,2100,2100000,11040,,9/4/2016 9:21:00,,"Black Lion Gate, Kensington Gardens",9/4/2016 8:46:00,,"Black Lion Gate, Kensington Gardens",1157,1157,1
+58044885,2100,2100000,11305,,9/6/2016 9:22:00,,"Barbican Centre, Barbican",9/6/2016 8:47:00,,"Queen's Gate, Kensington Gardens",1191,1231,0
+57984136,2100,2100000,5026,,9/4/2016 12:24:00,,"Queen's Gate (North), Kensington",9/4/2016 11:49:00,,"Queen's Gate (North), Kensington",1204,1204,0
+57853229,2100,2100000,13318,,8/31/2016 15:13:00,,"Aquatic Centre, Queen Elizabeth Olympic Park",8/31/2016 14:38:00,,"Lee Valley VeloPark, Queen Elizabeth Olympic Park",300233,300029,1
+57938572,2100,2100000,7967,,9/2/2016 16:55:00,,"Holland Park, Kensington",9/2/2016 16:20:00,,"Holland Park, Kensington",10631,10631,0
+57993193,2100,2100000,8997,,9/4/2016 16:01:00,,"Craven Street, Strand",9/4/2016 15:26:00,,"Westbourne Park Road, Portobello",1160,300057,1
+57891197,5940,5940000,3723,,9/1/2016 14:40:00,,"Park Lane , Hyde Park",9/1/2016 13:01:00,,"Hyde Park Corner, Hyde Park",1037,1075,0
+57925344,1080,1080000,915,,9/2/2016 9:15:00,,"Guilford Street , Bloomsbury",9/2/2016 8:57:00,,"Vincent Square, Westminster",974,1196,0
+58057088,1080,1080000,13217,,9/6/2016 16:15:00,,"Lansdowne Road, Ladbroke Grove",9/6/2016 15:57:00,,"Woodstock Street, Mayfair",200172,1042,0
+58004900,1080,1080000,10492,,9/4/2016 21:28:00,,"Graham Street, Angel",9/4/2016 21:10:00,,"Strand, Strand",1131,1100,0
+58042817,1080,1080000,4895,,9/6/2016 8:42:00,,"Westfield Southern Terrace ,Shepherd's Bush",9/6/2016 8:24:00,,"Crabtree Lane, Fulham",200061,200221,0
+57970416,1080,1080000,11502,,9/3/2016 15:36:00,,"Shoreditch High Street, Shoreditch",9/3/2016 15:18:00,,"Bricklayers Arms, Borough",3445,1070,1
+57859059,1080,1080000,7474,,8/31/2016 17:30:00,,"Great Marlborough Street, Soho",8/31/2016 17:12:00,,"Winsland Street, Paddington",1125,3496,0
+57995716,1080,1080000,2929,,9/4/2016 16:43:00,,"Alma Road, Wandsworth",9/4/2016 16:25:00,,"Union Grove, Wandsworth Road",300046,200211,0
+58041162,1080,1080000,5510,,9/6/2016 8:21:00,,"Putney Bridge Station, Fulham",9/6/2016 8:03:00,,"Grant Road Central, Clapham Junction",200125,200206,0
+58053395,1080,1080000,10837,,9/6/2016 14:03:00,,"Cadogan Gardens, Chelsea",9/6/2016 13:45:00,,"Parson's Green , Parson's Green",2695,200237,0
+57840980,1080,1080000,797,,8/31/2016 8:44:00,,"Chapel Place, Marylebone",8/31/2016 8:26:00,,"Clifton Road, Maida Vale",1003,1147,0
+57911082,1080,1080000,8167,,9/1/2016 19:50:00,,"Prince of Wales Drive, Battersea Park",9/1/2016 19:32:00,,"Lambeth North Station, Waterloo",300073,1117,0
+57972999,1080,1080000,11164,,9/3/2016 16:29:00,,"Vicarage Crescent, Battersea",9/3/2016 16:11:00,,"Osiers Road, Wandsworth",200077,200219,0
+57891095,1080,1080000,9205,,9/1/2016 13:15:00,,"Eaton Square (South), Belgravia",9/1/2016 12:57:00,,"Eel Brook Common, Walham Green",22164,300003,0
+57968560,1080,1080000,236,,9/3/2016 14:55:00,,"Hinde Street, Marylebone",9/3/2016 14:37:00,,"Graham Street, Angel",3476,1131,1
+57850528,1080,1080000,12192,,8/31/2016 13:24:00,,"Sardinia Street, Holborn",8/31/2016 13:06:00,,"Wormwood Street, Liverpool Street",2649,2587,1
+58066912,1080,1080000,4508,,9/6/2016 18:47:00,,"Garnet Street, Shadwell",9/6/2016 18:29:00,,"Doddington Grove, Kennington",200045,200084,0
+57863931,1080,1080000,414,,8/31/2016 18:29:00,,"Guildhouse Street, Victoria",8/31/2016 18:11:00,,"Shouldham Street, Marylebone",3478,2693,0
+58058141,1080,1080000,7528,,9/6/2016 16:44:00,,"Blenheim Crescent, Ladbroke Grove",9/6/2016 16:26:00,,"Kensington Gore, Knightsbridge",300090,1193,0
+57937620,1080,1080000,7158,,9/2/2016 16:11:00,,"Battersea Church Road, Battersea",9/2/2016 15:53:00,,"Felsham Road, Putney",200201,300019,0
+58063403,1080,1080000,13968,,9/6/2016 18:09:00,,"Blenheim Crescent, Ladbroke Grove",9/6/2016 17:51:00,,"Hammersmith Road, Hammersmith",300090,200142,0
+57950403,1080,1080000,944,,9/2/2016 21:16:00,,"Bonny Street, Camden Town",9/2/2016 20:58:00,,"Eastbourne Mews, Paddington",200105,1203,0
+57982101,1080,1080000,2512,,9/4/2016 10:59:00,,"Broadwick Street, Soho",9/4/2016 10:41:00,,"Broadwick Street, Soho",3489,3489,0
+57861154,1080,1080000,6690,,8/31/2016 17:57:00,,"Knaresborough Place, Earl's Court",8/31/2016 17:39:00,,"Clifford Street, Mayfair",200069,2688,0
+57867801,1080,1080000,8987,,8/31/2016 19:17:00,,"Rodney Road , Walworth",8/31/2016 18:59:00,,"Tooley Street, Bermondsey",3481,1142,0
+57913591,1080,1080000,5289,,9/1/2016 21:03:00,,"Craven Street, Strand",9/1/2016 20:45:00,,"Albert Gate, Hyde Park",1160,1132,1
+58064039,1080,1080000,9516,,9/6/2016 18:16:00,,"One Tower Bridge, Bermondsey",9/6/2016 17:58:00,,"Baldwin Street, St. Luke's",300249,3500,1
+58047965,1080,1080000,9705,,9/6/2016 10:06:00,,"Royal Avenue 1, Chelsea",9/6/2016 9:48:00,,"Vauxhall Cross, Vauxhall",3440,1000,0
+57923403,1080,1080000,12301,,9/2/2016 8:50:00,,"Hop Exchange, The Borough",9/2/2016 8:32:00,,"Caldwell Street, Stockwell",960,200137,1
+57930027,1080,1080000,11047,,9/2/2016 11:58:00,,"Museum of London, Barbican",9/2/2016 11:40:00,,"New Inn Yard, Shoreditch",1043,1032,0
+57976561,1080,1080000,1632,,9/3/2016 21:24:00,,"Waterloo Road, South Bank",9/3/2016 21:06:00,,"Wellington Street , Strand",1176,1202,0
+57904676,1080,1080000,10222,,9/1/2016 18:21:00,,"Aquatic Centre, Queen Elizabeth Olympic Park",9/1/2016 18:03:00,,"Aquatic Centre, Queen Elizabeth Olympic Park",300233,300233,1
+57981713,1080,1080000,4351,,9/4/2016 10:44:00,,"Regent's Row , Haggerston",9/4/2016 10:26:00,,"Wenlock Road , Hoxton",200064,979,1
+57979038,1080,1080000,7068,,9/4/2016 4:01:00,,"St. Chad's Street, King's Cross",9/4/2016 3:43:00,,"New Fetter Lane, Holborn",1013,200044,0
+57871973,1080,1080000,14110,,8/31/2016 21:01:00,,"Newton Street, Covent Garden",8/31/2016 20:43:00,,"Wormwood Street, Liverpool Street",300074,2587,1
+58036634,1080,1080000,5513,,9/6/2016 1:04:00,,"Lansdowne Way Bus Garage, Stockwell",9/6/2016 0:46:00,,"Wardour Street, Soho",300204,1163,0
+58010879,1080,1080000,10506,,9/5/2016 8:54:00,,"Nesham Street, Wapping",9/5/2016 8:36:00,,"Belvedere Road, South Bank",1031,1186,0
+58024193,1080,1080000,4094,,9/5/2016 17:41:00,,"Pitfield Street North,Hoxton",9/5/2016 17:23:00,,"Finsbury Circus, Liverpool Street",200152,984,0
+57854854,1080,1080000,14249,,8/31/2016 15:50:00,,"Palace Gate, Kensington Gardens",8/31/2016 15:32:00,,"Cardinal Place, Victoria",1110,968,0
+58042434,1080,1080000,8137,,9/6/2016 8:37:00,,"Brushfield Street, Liverpool Street",9/6/2016 8:19:00,,"Waterloo Station 3, Waterloo",1161,1072,1
+57983004,1080,1080000,4522,,9/4/2016 11:30:00,,"Ford Road, Old Ford",9/4/2016 11:12:00,,"Chrisp Street Market, Poplar",200027,200089,0
+58023702,1080,1080000,6957,,9/5/2016 17:33:00,,"Drury Lane, Covent Garden",9/5/2016 17:15:00,,"Walworth Road, Elephant & Castle",1007,10629,1
+57907663,1080,1080000,12298,,9/1/2016 18:54:00,,"Moorfields, Moorgate",9/1/2016 18:36:00,,"Craven Street, Strand",1092,1160,1
+58050552,1080,1080000,179,,9/6/2016 12:17:00,,"Castlehaven Road, Camden Town",9/6/2016 11:59:00,,"Coram Street, Bloomsbury",200016,300201,0
+57954708,1080,1080000,10680,,9/3/2016 6:35:00,,"Battersea Park Road, Nine Elms",9/3/2016 6:17:00,,"Hampton Street, Walworth",200183,1118,0
+58022484,1080,1080000,3555,,9/5/2016 17:10:00,,"Great Percy Street, Clerkenwell",9/5/2016 16:52:00,,"Hop Exchange, The Borough",3470,960,0
+57835094,1080,1080000,7914,,8/31/2016 6:07:00,,"Storey's Gate, Westminster",8/31/2016 5:49:00,,"Winsland Street, Paddington",200202,3496,0
+58033087,1080,1080000,12324,,9/5/2016 20:10:00,,"Macclesfield Rd, St Lukes",9/5/2016 19:52:00,,"Union Street, The Borough",1226,961,0
+57854993,1080,1080000,12568,,8/31/2016 15:55:00,,"Fanshaw Street, Hoxton",8/31/2016 15:37:00,,"Harper Road, The Borough",3427,1137,0
+57897435,1080,1080000,7853,,9/1/2016 16:29:00,,"Kennington Road  , Vauxhall",9/1/2016 16:11:00,,"Long Lane , Bermondsey",1154,1189,0
+58043637,1080,1080000,8391,,9/6/2016 8:51:00,,"Lavington Street, Bankside",9/6/2016 8:33:00,,"Clapham Road, Lingham Street, Stockwell",300208,300245,0
+57858373,1080,1080000,13773,,8/31/2016 17:21:00,,"All Saints Church, Portobello",8/31/2016 17:03:00,,"Warren Street Station, Euston",300023,1090,0
+58039957,1080,1080000,8755,,9/6/2016 8:03:00,,"Jubilee Gardens, South Bank",9/6/2016 7:45:00,,"Stockwell Roundabout, Stockwell",1111,300207,0
+58013363,1080,1080000,4879,,9/5/2016 10:06:00,,"Hop Exchange, The Borough",9/5/2016 9:48:00,,"Eagle Wharf Road, Hoxton",960,200246,1
+58028059,1080,1080000,13531,,9/5/2016 18:30:00,,"Beryl Road, Hammersmith",9/5/2016 18:12:00,,"Manfred Road, East Putney",200097,300079,0
+57914554,1080,1080000,569,,9/1/2016 21:45:00,,"St. Katharine's Way, Tower",9/1/2016 21:27:00,,"Red Lion Street, Holborn",200049,22171,0
+57924797,1080,1080000,6648,,9/2/2016 9:07:00,,"Wren Street, Holborn",9/2/2016 8:49:00,,"Great Tower Street, Monument",22169,1080,0
+58037988,1080,1080000,7423,,9/6/2016 7:13:00,,"Millennium Hotel, Mayfair",9/6/2016 6:55:00,,"Melton Street, Euston",1230,300203,1
+57898556,1080,1080000,13896,,9/1/2016 16:55:00,,"Winsland Street, Paddington",9/1/2016 16:37:00,,"Wardour Street, Soho",3496,1163,1
+58022534,1080,1080000,11761,,9/5/2016 17:11:00,,"Cartwright Gardens , Bloomsbury",9/5/2016 16:53:00,,"Monument Street, Monument",1010,200101,0
+57929969,1080,1080000,5693,,9/2/2016 11:56:00,,"Newgate Street , St. Paul's",9/2/2016 11:38:00,,"Longford Street, The Regent's Park",1074,976,1
+57862958,1080,1080000,9765,,8/31/2016 18:18:00,,"Earnshaw Street , Covent Garden",8/31/2016 18:00:00,,"Great Marlborough Street, Soho",1145,1125,0
